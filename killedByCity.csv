@@ -1,0 +1,2917 @@
+"","city","data","total"
+"1","Henderson",15,320189
+"2","Las Vegas",68,2104198
+"3","Signal Hill",1,11421
+"4","Houston",105,5464251
+"5","Smyrna",3,56666
+"6","Nashville",19,1081903
+"7","Marietta",9,60867
+"8","Escondido",6,151625
+"9","Davis",2,76997
+"10","Shreveport",16,280062
+"11","Oxon Hill",2,18080
+"12","Lufkin",3,44867
+"13","Clearwater",8,116946
+"14","Springfield",27,623401
+"15","Lakewood",18,157935
+"16","Oak Creek",1,36325
+"17","Buena Park",1,81788
+"18","Washington",37,5379184
+"19","Martelle",1,250
+"20","West Melbourne",2,24259
+"21","Miami Shores",1,10365
+"22","Normal",1,54469
+"23","Coconut Creek",2,61248
+"24","Bronx",20,1418207
+"25","Atlanta",31,5449398
+"26","Missoula",6,92895
+"27","Tonopah",1,2009
+"28","Elkhart",7,147567
+"29","Honolulu",16,820987
+"30","Elmira",3,62989
+"31","Greensboro",6,343090
+"32","Milwaukee",27,1365787
+"33","Nampa",5,184428
+"34","Wasilla",8,10838
+"35","Sanford",4,61448
+"36","Fremont",8,241110
+"37","Crescent City",3,16849
+"38","Redondo Beach",4,66749
+"39","West Richland",2,15075
+"40","Grantsville",2,12064
+"41","Rutland",2,18131
+"42","Washington",3,32163
+"43","College Park",2,500617
+"44","Provo",2,20303
+"45","Payson",12,205603
+"46","Amarillo",4,37796
+"47","Butler",1,7783
+"48","Milwaukee",10,93131
+"49","Guadalupe",1,9042
+"50","Florence",8,141464
+"51","Chanute",2,81360
+"52","Amarillo",1,65380
+"53","Thornton",6,55417
+"54","Somerville",43,5649300
+"55","Pflugerville",2,57942
+"56","Highland",3,31324
+"57","Marietta",31,1066967
+"58","Philadelphia",1,1633
+"59","Beckley",1,33767
+"60","Wheat Ridge",77,2049293
+"61","Milwaukee",8,346789
+"62","Memphis",3,19400
+"63","Chapin",2,823
+"64","Galesburg",1,652
+"65","San Antonio",2,35753
+"66","Victorville",2,18057
+"67","Castaic",3,79348
+"68","Honolulu",2,29992
+"69","Juniata",6,264357
+"70","Grantsboro",2,60976
+"71","El Mirage",41,2106068
+"72","North Aurora",44,579295
+"73","Tustin",2,60513
+"74","Seguin",1,19920
+"75","Lafayette",5,116834
+"76","Spring",2,68079
+"77","Baltimore",29,3789215
+"78","Bakersfield",6,905152
+"79","La Habra",4,84048
+"80","Cullman",2,51544
+"81","Coeur d'Alene",3,15526
+"82","Rockville",4,110937
+"83","Seattle",4,12754
+"84","Hartford",2,4468
+"85","Joplin",3,16299
+"86","Glendora",1,8538
+"87","Blackfoot",4,22348
+"88","Nashville",2,35913
+"89","Centennial",18,2107852
+"90","Yulee",6,12253
+"91","Woodville",1,798
+"92","Celina",3,28710
+"93","Wetumpka",4,16460
+"94","Las Vegas",9,389280
+"95","Dolton",3,72396
+"96","Calumet City",39,3220118
+"97","Riverside",4,18232
+"98","Cottonwood",2,22344
+"99","San Antonio",24,1098526
+"100","Gobles",7,442289
+"101","Atlanta",9,190972
+"102","Wasco",5,285362
+"103","Crowley",11,482111
+"104","Boise",1,9369
+"105","Dothan",52,888486
+"106","San Diego",2,71484
+"107","Philadelphia",10,276295
+"108","Boerne",5,269418
+"109","Duncan",1,1533
+"110","Salt Lake City",5,67985
+"111","Harrisburg",9,94763
+"112","Salinas",3,39437
+"113","Davenport",59,761195
+"114","Toledo",22,843386
+"115","Cairo",9,346921
+"116","Houston",2,3642
+"117","Tucson",1,1623
+"118","Daphne",87,8604203
+"119","Savannah",22,2559903
+"120","Canton",3,9007
+"121","Las Vegas",5,170876
+"122","Appalachia",8,111269
+"123","Gaithersburg",1,5847
+"124","Nampa",8,47059
+"125","Roswell",19,2908063
+"126","Essex",4,88414
+"127","Houston",1,2335
+"128","Albuquerque",2,414
+"129","Baltimore",4,33992
+"130","El Paso",5,182701
+"131","Pensacola",2,119666
+"132","North East",1,18105
+"133","Waterflow",15,342464
+"134","Chicago",1,3929
+"135","Brooklyn",2,2725
+"136","Presque Isle",2,1804
+"137","Medford",6,28976
+"138","Santa Fe",1,18544
+"139","Houston",2,77964
+"140","Carterville",5,123420
+"141","Danville",2,10184
+"142","San Antonio",54,1636715
+"143","Tampa",1,3040
+"144","Newton",3,215243
+"145","Olivia",1,7458
+"146","Salemburg",9,63245
+"147","Douglasville",23,2074775
+"148","Spartanburg",13,92777
+"149","Kingsport",7,6547
+"150","Florence",10,112891
+"151","St. Matthews",1,7315
+"152","Corpus Christi",1,2995
+"153","Bayard",4,103949
+"154","Corpus Christi",4,141664
+"155","Weed",23,484465
+"156","Roswell",1,29685
+"157","Plainville",1,48917
+"158","Graham",1,7141
+"159","Winthrop",7,40341
+"160","Texarkana",1,39691
+"161","Abilene",1,4848
+"162","Fife",8,121272
+"163","Kansas City",2,4187
+"164","McDonald",10,62082
+"165","College Station",1,637
+"166","Lander",19,482249
+"167","Fairbanks",12,266804
+"168","Portland",6,332190
+"169","Auburn",2,62709
+"170","Cumming",3,18054
+"171","Monroe",5,45056
+"172","Bakersfield",1,37812
+"173","Washington",1,5577
+"174","Whiteville",3,28943
+"175","Iron River",6,44236
+"176","Norwalk",5,79291
+"177","Surprise",1,2413
+"178","Greenville",17,325350
+"179","Santa Fe",1,969
+"180","Santa Fe",1,15471
+"181","Walnut",19,739573
+"182","Murray",2,39825
+"183","De Soto",3,19470
+"184","Covington",2,55697
+"185","New Berlin",49,2876625
+"186","Luray",3,22818
+"187","Arvada",8,30605
+"188","Lonoke",1,2252
+"189","Hamilton",1,13914
+"190","Kansas City",4,16477
+"191","Robbinsville",1,3533
+"192","Wichita",1,12988
+"193","Salem",4,25042
+"194","Flint",1,25952
+"195","Encinitas",61,1562009
+"196","Lithia Springs",1,64897
+"197","Hilo",6,29659
+"198","Holly Springs",1,22553
+"199","Covington",5,133372
+"200","Houston",5,58025
+"201","Bessemer City",1,25114
+"202","Harrison",1,3125
+"203","Eureka",4,22813
+"204","Perris",4,13357
+"205","Westmoreland",1,2749
+"206","Jackson",3,37190
+"207","Wolcott",11,2977172
+"208","Hermitage",129,4219697
+"209","Birmingham",1,60767
+"210","Calexico",1,626
+"211","Abbeville",1,1867
+"212","Pittsfield",1,1094
+"213","Denver",27,1798103
+"214","Acworth",1,2672
+"215","Bakersfield",1,292
+"216","Hilo",1,2321
+"217","Barstow",55,1181496
+"218","Watsontown",3,47930
+"219","Salt Lake City",14,560041
+"220","Fulshear",1,368
+"221","Jasper",2,55625
+"222","Willcox",2,21483
+"223","Forest Hill",1,30917
+"224","College Park",11,141532
+"225","Yucca Valley",1,62566
+"226","Espanola",1,3480
+"227","Columbus",8,84092
+"228","Bayonne",3,6658
+"229","Garden City",2,6989
+"230","Happy Valley",6,586383
+"231","Round Rock",5,72588
+"232","Jefferson City",1,13257
+"233","Scottsbluff",8,70243
+"234","Needville",1,561
+"235","Griffin",1,159443
+"236","Okmulgee",8,34917
+"237","Green Forest",1,15434
+"238","Denver",12,87236
+"239","Braintree",8,254634
+"240","Minneapolis",1,452
+"241","Phoenix",7,256286
+"242","Arvada",1,75489
+"243","Hot Springs",2,24856
+"244","Cartwright",18,847819
+"245","Sumrall",10,703952
+"246","Ray City",2,3408
+"247","Milwaukee",1,4367
+"248","Milwaukee",2,4945
+"249","San Jose",4,78679
+"250","Jemison",26,397264
+"251","Yucca Valley",1,62290
+"252","Quimby",18,401524
+"253","Denver",20,252381
+"254","Antlers",54,972943
+"255","Jacksonville",6,188746
+"256","Cedar Hill",3,1203230
+"257","Columbia",1,1355
+"258","Holy Cross",8,67598
+"259","Lenexa",2,3120
+"260","Washington",3,422269
+"261","Villa Park",4,140937
+"262","Nogales",1,2414
+"263","College Station",1,47682
+"264","Athens",6,46212
+"265","Parkersburg",1,5719
+"266","Red Bud",7,207557
+"267","Troy",2,27676
+"268","Linwood",1,11751
+"269","Adel",5,267155
+"270","Albany",5,138632
+"271","Pittsburg",116,12750807
+"272","Manorville",1,593
+"273","Bristol",2,38307
+"274","Denver",4,61966
+"275","Mulliken",15,120728
+"276","Champaign",21,642413
+"277","Englewood",2,498328
+"278","Hayden",1,22711
+"279","Decatur",3,77624
+"280","Montgomery",54,5743938
+"281","Wimer",2,8388
+"282","Peoria",31,909585
+"283","Waldorf",1,32081
+"284","Grandview",4,61339
+"285","Baltimore",8,159203
+"286","Omaha",4,267069
+"287","Birmingham",20,412275
+"288","Denver",2,10208
+"289","Rochester",1,44262
+"290","Campo",5,155499
+"291","Grottoes",1,1939
+"292","Fremont",1,6182
+"293","Alvarado",2,41103
+"294","Bakersfield",16,586048
+"295","Boynton Beach",4,30690
+"296","Stockton",4,24322
+"297","San Luis Obispo",4,96664
+"298","Lancaster",6,282762
+"299","Glendale",7,142135
+"300","Greenville",7,79604
+"301","Oklahoma City",1,2719
+"302","Riverside",1,928
+"303","Baltimore",2,17725
+"304","Clarksville",3,106280
+"305","Providence",42,6445545
+"306","Rutledge",16,121313
+"307","Casper",1,17236
+"308","San Andreas",1,6478
+"309","Las Vegas",2,6504
+"310","Winston-Salem",4,213055
+"311","Mesquite",1,10763
+"312","Woodbine",1,1901
+"313","Glendale",1,67467
+"314","McLean",2,169868
+"315","Biloxi",4,41554
+"316","Biloxi",4,37176
+"317","Nashville",9,116672
+"318","South Haven",1,2331
+"319","Green Bay",10,237386
+"320","Canon City",2,36266
+"321","Washington",3,52020
+"322","Kansas City",10,1478868
+"323","Lake Los Angeles",2,71028
+"324","Troy",1,15040
+"325","Reading",2,4902
+"326","Fullerton",3,20020
+"327","Bakersfield",1,16237
+"328","Nashville",25,1512923
+"329","Los Angeles",11,85992
+"330","Webbers Falls",1,307
+"331","Rosenberg",2,101539
+"332","Casa Grande",1,8996
+"333","Billings",1,3893
+"334","Colorado Springs",3,23703
+"335","Escondido",1,13249
+"336","Worcester",17,398854
+"337","Elizabeth City",1,53067
+"338","San Antonio",2,1247
+"339","San Antonio",1,26620
+"340","Columbus",6,107258
+"341","Alameda",5,507002
+"342","Dallas",15,262491
+"343","Colorado Springs",1,653
+"344","Aransas Pass",36,1687311
+"345","Dothan",1,13987
+"346","Fort Worth",2,7278
+"347","Eastpointe",17,718353
+"348","Burnsville",4,79820
+"349","Douglasville",1,3040
+"350","Hayward",4,668382
+"351","Winter Haven",20,1075798
+"352","Spokane",2,1787
+"353","Fort Lupton",3,4442
+"354","San Antonio",1,12595
+"355","Portland",4,102511
+"356","Albuquerque",12,302284
+"357","San Antonio",1,375
+"358","North Lauderdale",11,202335
+"359","Tuscaloosa",13,154793
+"360","Roswell",1,447
+"361","Houston",25,3506126
+"362","Mars Hill",5,20482
+"363","San Diego",5,39789
+"364","Garden City",3,8824
+"365","Honolulu",1,1905
+"366","Leonardtown",2,666
+"367","Westerville",4,32100
+"368","Knoxville",1,4051
+"369","Brooklyn Center",1,39182
+"370","San Fernando",1,3762
+"371","Salt Lake City",4,20485
+"372","San Marcos",1,53519
+"373","Rockford",2,119476
+"374","Metairie",10,302419
+"375","Georgetown",1,704
+"376","Lena",2,9554
+"377","Hotchkiss",1,328
+"378","Philadelphia",1,1816
+"379","Takoma Park",1,8907
+"380","Takoma Park",1,7461
+"381","Daly City",8,289490
+"382","Miami",3,188038
+"383","Redding",1,6599
+"384","Oneonta",2,31999
+"385","Buena Vista",1,7518
+"386","Honolulu",1,33373
+"387","Anadarko",1,2349
+"388","Birmingham",10,106447
+"389","Bronx",1,3951
+"390","Phoenix",1,5470
+"391","Moreno Valley",2,30979
+"392","Castle Pines",1,7202
+"393","Alorton",8,214547
+"394","Corvallis",8,220987
+"395","Washington",1,17501
+"396","Corona",1,53861
+"397","Salem",2,11851
+"398","Lakewood",2,27054
+"399","Brighton",1,16964
+"400","Rock Island",1,3855
+"401","Chicago",3,182581
+"402","Independence",5,100442
+"403","Lithonia",7,38310
+"404","Barstow",28,518012
+"405","Visalia",4,6131
+"406","Claremont",2,36543
+"407","Jacksonville",1,78995
+"408","Lithia Springs",2,36330
+"409","Bristol",3,6955
+"410","Chicago",4,179913
+"411","Los Angeles",11,578523
+"412","Corpus Christi",1,21196
+"413","Lompoc",8,315502
+"414","San Antonio",19,136254
+"415","Virginia Beach",1,7280
+"416","St. Charles",1,4264
+"417","Chicago",3,9324
+"418","Kansas City",2,3745
+"419","Seaford",2,22546
+"420","King George",2,11371
+"421","Forest Park",2,101068
+"422","Stuart",1,20803
+"423","Charlotte",2,4216
+"424","Anderson",1,14637
+"425","Jacksonville",2,41748
+"426","Reed Point",2,9941
+"427","Prescott Valley",2,93040
+"428","Dexter",4,104683
+"429","Odenville",1,607
+"430","Centerville",3,57891
+"431","Bellefontaine",33,703498
+"432","Miami",1,70166
+"433","Arlington",2,8696
+"434","Wylie",20,1898019
+"435","Fort Totten",6,93025
+"436","University Park",6,45181
+"437","Temple",5,64454
+"438","Los Angeles",1,5602
+"439","Palm Bay",1,2133
+"440","Laredo",1,13174
+"441","McLaughlin",1,44850
+"442","Austin",1,22476
+"443","Reidsville",4,258009
+"444","Wasilla",2,54909
+"445","Nashville",9,147458
+"446","Northridge",3,73473
+"447","Dayton",1,7381
+"448","Valdosta",1,12854
+"449","Kimberling City",1,14389
+"450","Danville",8,10229
+"451","Cape Coral",1,2238
+"452","Rochester",1,55514
+"453","Richmond",7,69523
+"454","Coushatta",1,419
+"455","Columbus",8,185010
+"456","Riverside",16,282011
+"457","Reedsport",7,146091
+"458","Minneola",1,17115
+"459","Burbank",2,5558
+"460","Lakeland",13,628377
+"461","Sparkman",12,383134
+"462","Fairbanks",3,95708
+"463","San Antonio",5,95750
+"464","Columbus",2,33841
+"465","Gainesville",1,10027
+"466","Midland",2,58802
+"467","Jamesville",1,1958
+"468","Houston",1,17760
+"469","Abbeville",19,433031
+"470","Detroit",2,86628
+"471","Ozark",5,147344
+"472","Muskogee",12,288000
+"473","Orange Park",3,13322
+"474","Dora",4,69186
+"475","Sebeka",3,25557
+"476","Sebeka",34,1822394
+"477","San Antonio",6,13924
+"478","Liberty",3,109527
+"479","Empire",3,37221
+"480","Kalispell",6,240735
+"481","Stanley",30,18713220
+"482","Culpeper",10,51309
+"483","West Sacramento",1,178
+"484","Duluth",1,410
+"485","Antioch",7,74879
+"486","Vici",1,1546
+"487","Eagle Point",2,17319
+"488","Nebo",1,21196
+"489","San Jose",4,95338
+"490","Braham",1,612
+"491","Blanchard",2,50347
+"492","Villa Hills",50,2024074
+"493","Lincoln",1,2834
+"494","Lincoln",8,79620
+"495","Cedar Rapids",2,21428
+"496","Lonoke",6,73326
+"497","Catasauqua",12,265351
+"498","Chillicothe",2,4087
+"499","Yreka",4,14122
+"500","Greer",1,32376
+"501","New Wilmington",17,351246
+"502","Athens",7,101004
+"503","Salisbury",20,215784
+"504","Mount Hermon",8,267648
+"505","Seattle",3,2230722
+"506","Miami",32,1005654
+"507","Indian Wells",6,101060
+"508","Rexburg",2,1153
+"509","El Paso",1,27843
+"510","Blackfoot",8,230427
+"511","Corbin",5,69020
+"512","Fontana",1,35716
+"513","Houston",5,82180
+"514","Gulfport",1,264
+"515","Clemson",1,25844
+"516","Williamsport",1,32271
+"517","Malvern",2,12220
+"518","Waterville",7,18603
+"519","East Cleveland",2,36032
+"520","Austin",12,258069
+"521","Las Vegas",7,74417
+"522","Seattle",1,11120
+"523","Pennsburg",1,17371
+"524","Gastonia",2,34763
+"525","Idaho Falls",1,13263
+"526","Oxford",1,2727
+"527","Mesa",1,12810
+"528","Lakeview",3,10339
+"529","Bettendorf",4,103526
+"530","Redding",39,671033
+"531","Phoenix",4,714
+"532","Pine Hills",2,39072
+"533","Kearns",9,132319
+"534","Gaithersburg",2,21614
+"535","Stratford",3,16737
+"536","High Point",7,94299
+"537","Ogden",3,42361
+"538","Baltimore",1,23598
+"539","Hazel Dell",1,7344
+"540","Mobile",2,29742
+"541","Las Cruces",9,415501
+"542","Alta Sierra",12,184463
+"543","Las Vegas",1,3161
+"544","Kewaskum",1,51348
+"545","Lenoir City",2,38526
+"546","Franklinton",8,87796
+"547","East Peoria",7,159428
+"548","Tucson",3,13666
+"549","Snyder",7,133943
+"550","Carmel",2,6240
+"551","Dixon",1,1249
+"552","Broken Bow",1,1592
+"553","Paradise Valley",3,13350
+"554","La Quinta",12,59439
+"555","Wabash",1,2207
+"556","San Antonio",4,111076
+"557","San Antonio",2,86075
+"558","Mobile",1,20696
+"559","Graham",1,7235
+"560","Slidell",1,40311
+"561","Wichita Falls",1,5449
+"562","San Jose",4,95166
+"563","College Station",2,36015
+"564","Caneyville",14,319249
+"565","Titusville",4,187239
+"566","Fresno",1,1037
+"567","Casas Adobes",2,32118
+"568","Perryville",3,18230
+"569","Sacramento",1,8312
+"570","Toledo",5,117668
+"571","Lawton",9,46524
+"572","Marion",4,280498
+"573","Carmichael",5,140469
+"574","Biloxi",1,20421
+"575","Prescott Valley",1,727
+"576","Rusk",21,3592294
+"577","Visalia",8,275579
+"578","Phoenix",2,46550
+"579","Lakewood",1,24840
+"580","Montegut",6,143592
+"581","Warrenville",3,30271
+"582","Altadena",7,85239
+"583","Munster",7,274492
+"584","Killeen",2,76931
+"585","Bentonville",1,1480
+"586","Topeka",1,29886
+"587","Evanston",3,3855
+"588","Phoenix",14,257601
+"589","Pembroke",12,100330
+"590","Ridge",1,1628706
+"591","Robbinsdale",6,115028
+"592","Gaithersburg",1,10017
+"593","Sparta",4,93932
+"594","Chesaning",16,195805
+"595","Washington",3,62250
+"596","Hartford",2,18926
+"597","Tigard",1,64558
+"598","Memphis",2,6495
+"599","Houston",1,10397
+"600","Austin",3,71929
+"601","Payson",2,71
+"602","Homestead",4,53914
+"603","Richburg",1,34124
+"604","Jefferson City",5,71513
+"605","Ontario",2,67899
+"606","Newark",1,25962
+"607","Lakeview",2,26597
+"608","Beaumont",1,43981
+"609","Minneapolis",10,95605
+"610","Wichita",1,26145
+"611","Ammon",2,48481
+"612","Stroudsburg",5,69451
+"613","Atlanta",2,74829
+"614","Brooklyn",1,4630
+"615","Highland",4,76514
+"616","Charleston",1,5956
+"617","Modesto",9,404223
+"618","Denver",4,52592
+"619","Phoenix",1,35266
+"620","Phoenix",1,2057
+"621","Brockton",7,114161
+"622","Hesperia",2,7963
+"623","Kaneohe",15,350365
+"624","Warrenton",4,114584
+"625","Lewiston",2,55353
+"626","Davisboro",2,21458
+"627","Hartford",3,22831
+"628","Houston",5,5944
+"629","Philadelphia",3,24229
+"630","Midway",2,17949
+"631","Oakland",2,75087
+"632","Redding",1,177603
+"633","Antioch",2,2270
+"634","Dalton",3,15408
+"635","Columbus",1,17601
+"636","Glendale",1,176
+"637","Joliet",2,26352
+"638","Mobile",2,1724
+"639","Wichita",3,24243
+"640","Anchorage",1,3256
+"641","Nampa",3,56820
+"642","Jefferson",3,15849
+"643","Auburn",1,281
+"644","Smyrna",2,41629
+"645","Daytona Beach",1,10689
+"646","Sevierville",8,177253
+"647","Orlando",1,7494
+"648","Deming",5,151227
+"649","Jurupa Valley",3,29156
+"650","Greenfield",6,169383
+"651","Kennewick",3,5014
+"652","New York",11,182437
+"653","Farmington",1,1232
+"654","Houston",24,143932
+"655","Oklahoma City",2,53296
+"656","Trout Creek",2,5438
+"657","Middleway",2,30325
+"658","Gary",14,39018
+"659","Rehoboth Beach",5,117282
+"660","La Marque",1,527
+"661","Fort Atkinson",1,19311
+"662","Oxford",1,9895
+"663","Las Vegas",3,135248
+"664","Riverview",2,12109
+"665","Gates",2,14597
+"666","Flint",1,23888
+"667","Rowland Heights",1,39132
+"668","St. Louis",5,116480
+"669","Dayton",2,722243
+"670","Mesquite",4,61171
+"671","Toledo",4,94371
+"672","Mountain Iron",5,84331
+"673","Bronx",12,251974
+"674","Columbus",1,47415
+"675","Buckeye",2,21886
+"676","Prichard",4,156181
+"677","Phoenix",4,209070
+"678","Mansfield",5,19119
+"679","St. Petersburg",1,9564
+"680","Redding",5,77192
+"681","Detroit",1,9599
+"682","Rutherfordton",4,72299
+"683","Pineville",18,570308
+"684","Ferry Pass",32,1588961
+"685","Fayetteville",1,29322
+"686","San Angelo",1,960
+"687","San Bernardino",1,12442
+"688","Lubbock",2,7896
+"689","Culpeper",2,7170
+"690","San Antonio",1,11343
+"691","Queens",2,8136
+"692","Deming",4,30307
+"693","Miami",6,154574
+"694","Oklahoma City",2,8097
+"695","Louisville",2,12583
+"696","Spokane Valley",1,135
+"697","Ohatchee",1,61147
+"698","New Smyrna Beach",2,64474
+"699","Evansville",6,145233
+"700","Atlanta",1,48869
+"701","Oklahoma City",2,7653
+"702","Los Lunas",1,4376
+"703","Lawton",4,87879
+"704","La Vergne",2,69393
+"705","St. Augustine",1,20203
+"706","Bonnieville",4,127571
+"707","Laurel",1,40083
+"708","Dania Beach",2,55604
+"709","Batesville",2,54855
+"710","Lubbock",1,6461
+"711","Sacramento",2,2933
+"712","Corpus Christi",16,439815
+"713","Cocoa",7,19039
+"714","Cocoa",2,21179
+"715","Gillette",1,47980
+"716","Columbus",3,16650
+"717","Philadelphia",3,214674
+"718","Scottsdale",1,5550
+"719","Oklahoma City",1,70704
+"720","Winchester",2,8699
+"721","Lanham",1,5254
+"722","Nederland",2,84196
+"723","Oildale",1,2542
+"724","Jefferson",5,59329
+"725","Baltimore",14,113166
+"726","Woodinville",2,3716
+"727","Kingston Springs",1,20851
+"728","High Point",1,446
+"729","Evansville",1,24395
+"730","Lilburn",1,13701
+"731","Missoula",2,98648
+"732","Sedona",2,26473
+"733","Rialto",1,30488
+"734","Dallas",2,910
+"735","Tulsa",1,402
+"736","Ventura",1,444
+"737","Crestview",1,4668
+"738","Jacksonville",1,1711
+"739","Kent",1,43689
+"740","Detroit",1,20190
+"741","Lewistown",3,22917
+"742","Oakland",1,932
+"743","San Antonio",1,22959
+"744","Henderson",2,78557
+"745","New Port Richey",2,34370
+"746","Beaumont",4,30869
+"747","Lynn",3,20968
+"748","Winchester",2,8863
+"749","Springfield",9,173256
+"750","Puyallup",3,109381
+"751","Seymour",2,53163
+"752","Kenwood",2,30735
+"753","Denver",1,26639
+"754","Maryville",1,19486
+"755","Detroit",2,20077
+"756","El Paso",2,65903
+"757","Chattanooga",1,2663
+"758","Vancouver",1,30894
+"759","Salem",3,324286
+"760","Bakersfield",1,334
+"761","Tucson",3,40493
+"762","Cadiz",1,78103
+"763","Las Vegas",7,107536
+"764","Herriman",2,5611
+"765","Lake Worth",1,385
+"766","Chattanooga",3,59458
+"767","Philadelphia",1,9107
+"768","Citrus Heights",1,220
+"769","Alexandria",3,153159
+"770","Phoenix",1,2781
+"771","Garden City",2,13820
+"772","Lawrenceburg",3,90582
+"773","Warren",6,75432
+"774","Sylvester",1,522
+"775","Kansas City",2,20252
+"776","San Diego",3,63013
+"777","Goodman",8,1038738
+"778","Chicago",1,8975
+"779","Casa Grande",7,198361
+"780","Barstow",2,26073
+"781","San Bernardino",2,8885
+"782","Eagle River",1,6719
+"783","Moss Point",1,526
+"784","Bradenton",1,3418
+"785","Elmwood Place",29,462628
+"786","Tampa",6,81773
+"787","Phoenix",3,101751
+"788","Phoenix",2,23653
+"789","Spring Hill",1,22819
+"790","Waukegan",2,59669
+"791","South Milwaukee",10,105006
+"792","San Diego",3,195494
+"793","Emmitsburg",1,260
+"794","Coram",1,2489
+"795","Jim Thorpe",1,9735
+"796","Thornton",2,48126
+"797","Sunrise",2,4200
+"798","Tooele",4,49049
+"799","Lakeview",1,3128
+"800","Fresno",1,9683
+"801","Huntsville",1,9631
+"802","Greenville",1,16814
+"803","Albuquerque",2,4223
+"804","Huntsville",4,457177
+"805","Rock Island",4,17913
+"806","Sioux Falls",5,102474
+"807","Los Angeles",3,75457
+"808","Riesel",2,14219
+"809","Clearfield",1,67339
+"810","Los Angeles",4,88815
+"811","Hyattsville",2,28991
+"812","Frostproof",3,62889
+"813","Chico",1,9754
+"814","Kingman",7,390809
+"815","Bakersfield",1,7892
+"816","South Bend",4,44440
+"817","Houma",4,7431
+"818","Albuquerque",4,112118
+"819","Billings",1,1988
+"820","Barre",1,1654
+"821","Bethel Springs",2,20990
+"822","San Francisco",1,2208
+"823","Kingman",1,108758
+"824","Houston",3,125354
+"825","Myrtle Beach",22,1710093
+"826","Salina",1,17370
+"827","Philadelphia",5,115911
+"828","Queens",5,175742
+"829","Palm City",1,15515
+"830","Stockton",1,2745
+"831","Wabash",1,43041
+"832","Torrance",6,233339
+"833","Fayetteville",4,83029
+"834","Georgetown",6,162877
+"835","Sterling",4,54328
+"836","Napa",3,17840
+"837","Chula Vista",11,290716
+"838","Vancouver",8,239798
+"839","Camarillo",1,12172
+"840","Las Cruces",1,4629
+"841","Wolfe City",2,805
+"842","Myrtle Beach",1,3873
+"843","Madison Heights",3,312507
+"844","Fresno",2,3219
+"845","Mojave",7,151691
+"846","Tallahassee",2,58481
+"847","Longview",1,3252
+"848","Decatur",1,4263
+"849","Manhattan",1,2121
+"850","St. Cloud",2,43759
+"851","Victorville",3,37298
+"852","Waggaman",3,37714
+"853","Dearborn",1,20867
+"854","Tempe",4,65273
+"855","Spokane",2,41129
+"856","Sebring",2,59805
+"857","Whitehall",1,2603
+"858","San Clemente",2,10278
+"859","San Antonio",7,115382
+"860","Geneseo",1,3417
+"861","Atlanta",1,16273
+"862","Bellefontaine Neighbors",2,75392
+"863","Athens",1,1433
+"864","Redmond",1,30776
+"865","Auburn",7,139143
+"866","Talking Rock",1,3251
+"867","Brunswick",1,7671
+"868","Midvale",2,9089
+"869","Lakewood",1,2512
+"870","Redlands",1,4021
+"871","West Des Moines",8,239928
+"872","West Odessa",4,261165
+"873","Immokalee",2,179951
+"874","San Antonio",2,12292
+"875","Bountiful",1,45940
+"876","Lancaster",4,15622
+"877","Denver",1,2129
+"878","Spokane Valley",2,42012
+"879","Compton",1,2150
+"880","Moscow",3,24461
+"881","Fayetteville",1,15824
+"882","Denver",1,252
+"883","Paducah",8,148683
+"884","Delray Beach",1,1396
+"885","Altoona",8,1703266
+"886","Spruce Pine",13,217827
+"887","San Antonio",2,3357
+"888","Battle Creek",4,312446
+"889","Lucerne Valley",1,5397
+"890","Syracuse",1,67317
+"891","Bakersfield",2,39002
+"892","Bettendorf",1,4391
+"893","Lacey",9,137810
+"894","Washington",5,19773
+"895","Sacramento",2,72878
+"896","Chicago",2,8461
+"897","Westmont",1,3057
+"898","Thorsby",2,8045
+"899","Meridian",1,23406
+"900","Aztec",1,5106
+"901","Anaheim",1,3067
+"902","Clovis",6,218323
+"903","Dearborn Heights",1,69955
+"904","Daytona Beach",3,60336
+"905","Elkridge",1,11068
+"906","San Bernardino",2,725
+"907","Salt Lake City",2,23133
+"908","Houston",4,68159
+"909","Tucson",1,37775
+"910","San Antonio",2,6896
+"911","Marshall",2,117958
+"912","Gray",1,3292
+"913","Gray",2,21278
+"914","Lincolnton",2,62327
+"915","Kingsland",18,445020
+"916","Rancho Cordova",1,74951
+"917","Rancho Cucamonga",1,1521
+"918","Belcourt",2,105623
+"919","Lafayette",3,48118
+"920","Asbury Park",1,49425
+"921","Nipomo",6,142847
+"922","Driftwood",3,87103
+"923","Bakersfield",1,120
+"924","Cabot",1,754
+"925","Amity",1,5872
+"926","San Benito",1,11082
+"927","Chickamauga",19,379289
+"928","Lake Havasu City",1,24446
+"929","Hope Mills",5,26010
+"930","Pollocksville",2,62055
+"931","Barstow",3,35081
+"932","San Bernardino",4,220570
+"933","Weslaco",2,3037
+"934","Avon Park",1,55357
+"935","Hemet",2,189614
+"936","Dos Palos",3,244835
+"937","Pasadena",3,15758
+"938","Oak Ridge",2,73593
+"939","Ocala",1,3241
+"940","Guerneville",1,4797
+"941","Tuscaloosa",5,30834
+"942","Phoenix",2,54620
+"943","Fort Lauderdale",2,4257
+"944","Moreland",1,79372
+"945","Albuquerque",3,15892
+"946","Pueblo",3,39185
+"947","Las Vegas",6,88885
+"948","Albuquerque",1,12081
+"949","Grand Island",4,38930
+"950","Casper",1,11109
+"951","Robbins",1,12562
+"952","Graham",2,5594
+"953","El Paso",2,348
+"954","Tulsa",3,98345
+"955","Holladay",1,13194
+"956","Clinton",1,39192
+"957","Tulsa",1,928
+"958","Dover",1,37586
+"959","Orlando",1,510
+"960","St. Petersburg",1,207127
+"961","West Alton",1,496046
+"962","Sylvania",1,26065
+"963","Oakland",6,109128
+"964","Ventnor City",1,18654
+"965","San Angelo",1,18848
+"966","Houston",2,34196
+"967","Phoenix",1,33708
+"968","West Valley City",6,96289
+"969","James Island",3,47538
+"970","Port Orchard",1,9274
+"971","Warren",2,13182
+"972","Fort Dodge",1,948
+"973","Mooresville",2,12596
+"974","West Jordan",2,111425
+"975","Sarasota",9,92664
+"976","Homestead",1,31974
+"977","Brunswick",3,13509
+"978","Morristown",1,2265
+"979","Detroit",3,179225
+"980","Chino",1,17199
+"981","Mission",4,80138
+"982","Troy",8,139248
+"983","North Las Vegas",1,55137
+"984","Bothell",5,186034
+"985","Golden Valley",1,7321
+"986","Lake Charles",2,21674
+"987","El Paso",16,255616
+"988","Canton",6,65131
+"989","North Port",3,22521
+"990","Carmel",7,227239
+"991","Mount Airy",11,565208
+"992","The Village",5,138669
+"993","Salt Lake City",1,2734
+"994","Baytown",5,262075
+"995","Roxboro",2,63762
+"996","Stockton",1,15708
+"997","Eureka",3,10321
+"998","Clearwater",1,1739
+"999","Oklahoma City",2,3355
+"1000","Waukesha",5,141191
+"1001","Sacramento",2,23399
+"1002","Chula Vista",4,115487
+"1003","Baton Rouge",4,39744
+"1004","Indianapolis",1,21893
+"1005","Chicago Heights",1,7192
+"1006","Houston",6,652308
+"1007","Syracuse",1,581
+"1008","Benjamin",7,46103
+"1009","Shepherdsville",6,273439
+"1010","Stockton",1,29187
+"1011","Grand Ledge",3,9370
+"1012","Knoxville",2,439
+"1013","Deming",2,23683
+"1014","Austell",1,12190
+"1015","Mendota Heights",6,154817
+"1016","Rockwood",1,25277
+"1017","Chamblee",8,34000
+"1018","Dayton",4,78002
+"1019","Leesburg",6,134510
+"1020","Monument",1,7294
+"1021","Greenville",2,27272
+"1022","Detroit",1,3090
+"1023","Panama City Beach",1,2848
+"1024","Forksville",1,5557
+"1025","Reston",2,34362
+"1026","San Diego",6,111475
+"1027","Brentwood",3,17873
+"1028","Paterson",3,49483
+"1029","Pascagoula",1,28084
+"1030","Monroe",3,78877
+"1031","Fresno",1,39995
+"1032","Etowah",4,11990
+"1033","Milwaukee",1,24046
+"1034","Cornwall",1,16256
+"1035","St. Louis",2,27645
+"1036","Muncie",2,6162
+"1037","Jacksonville",1,7028
+"1038","Phoenix",1,1135
+"1039","Phoenix",1,11041
+"1040","Kansas City",1,37303
+"1041","Sheboygan",1,16035
+"1042","Myrtle Beach",1,12052
+"1043","Durango",6,124345
+"1044","Liberty",9,155998
+"1045","Johnson City",4,17503
+"1046","Montclair",3,33513
+"1047","Hazleton",1,2042
+"1048","Midland",1,330
+"1049","Paducah",1,658
+"1050","Kettering",10,447245
+"1051","San Diego",3,77318
+"1052","Hebron",2,11561
+"1053","Port Richey",1,297
+"1054","Little Rock",1,7726
+"1055","Red Bluff",3,20994
+"1056","Elko",4,91394
+"1057","Cumberland",1,17560
+"1058","Auburndale",1,21364
+"1059","Roanoke",2,18243
+"1060","Vinita",1,9002
+"1061","San Bernardino",1,1527
+"1062","Sherman",1,3379
+"1063","Pueblo",1,4275
+"1064","Wasilla",4,6281
+"1065","Nevada",2,30911
+"1066","Giddings",1,19382
+"1067","Milpitas",1,385
+"1068","Lake Charles",4,45204
+"1069","Jay",2,931
+"1070","Gardena",1,147
+"1071","Westminster",1,78014
+"1072","Maiden",1,2108
+"1073","Billings",6,85098
+"1074","Kaneohe",1,967
+"1075","Rosamond",1,26956
+"1076","Kennard",2,15152
+"1077","Collinsville",1,17060
+"1078","Phoenix",2,82739
+"1079","Beach Park",11,4688346
+"1080","Lawrence",2,21038
+"1081","Kansas City",1,8132
+"1082","San Bernardino",1,14693
+"1083","Sedalia",1,8618
+"1084","Atlanta",1,8960
+"1085","Crown Point",3,110997
+"1086","Lancaster",5,61537
+"1087","Tunnel Hill",2,1870
+"1088","Tunnel Hill",11,323152
+"1089","Dowelltown",2,476143
+"1090","Winter Haven",2,39587
+"1091","Weippe",7,78394
+"1092","Orlando",1,27777
+"1093","Englewood",1,59433
+"1094","Redding",4,21729
+"1095","Bigfork",12,308096
+"1096","Industry",1,26453
+"1097","Adrian",1,2859
+"1098","East Northport",3,34420
+"1099","Bakersfield",7,131043
+"1100","Oakland",3,65398
+"1101","Gallup",3,29609
+"1102","Gallup",1,36354
+"1103","Clarkrange",3,3277
+"1104","Mustang",2,9496
+"1105","New Rochelle",2,1670
+"1106","Socorro",1,16270
+"1107","Aiken",1,1059
+"1108","Corpus Christi",2,5073
+"1109","Bryant",2,30623
+"1110","Poteau",3,24887
+"1111","Brooklyn",1,7372
+"1112","Vallejo",2,218
+"1113","Cottonwood",1,1614
+"1114","Las Vegas",3,26973
+"1115","Louisville",1,15551
+"1116","Fayetteville",1,1491
+"1117","Gresham",2,37604
+"1118","Watertown",5,42095
+"1119","Fountain",1,5020
+"1120","Temple Terrace",1,38139
+"1121","Philadelphia",1,30912
+"1122","San Diego",2,7965
+"1123","Sienna Plantation",2,130142
+"1124","Snellville",2,11111
+"1125","Yulee",1,33310
+"1126","Columbus",1,3826
+"1127","Centennial",1,2948
+"1128","Portland",3,15457
+"1129","North Little Rock",1,1018
+"1130","Ogden",1,8045
+"1131","Geneseo",1,3944
+"1132","Tallahassee",3,7372
+"1133","Wilburton",3,6473
+"1134","Marrero",2,17454
+"1135","Jacksonville",2,6962
+"1136","Los Angeles",1,62166
+"1137","Lansing",1,8669
+"1138","Corpus Christi",4,55837
+"1139","Manlius",3,69872
+"1140","Jamestown",1,11089
+"1141","Parma",2,22155
+"1142","Houston",1,3461
+"1143","Minneapolis",1,18016
+"1144","Phoenix",2,12880
+"1145","League City",3,58756
+"1146","Jonesborough",6,683794
+"1147","Colorado Springs",1,779
+"1148","Kila",1,11078
+"1149","Salt Lake City",3,39613
+"1150","Paterson",2,43055
+"1151","Nashville",1,25557
+"1152","Phoenix",1,6718
+"1153","Corpus Christi",1,11926
+"1154","Greenwood",2,4743
+"1155","Atmore",2,21169
+"1156","Tallahassee",1,398
+"1157","Chunchula",1,1722
+"1158","Macon",1,241
+"1159","Sale Creek",1,1898
+"1160","Forrest City",7,111955
+"1161","Germantown",1,18896
+"1162","Pasco",2,19431
+"1163","Suring",3,83853
+"1164","Shenandoah",3,10795
+"1165","Essex",1,1478
+"1166","Greenville",3,93010
+"1167","Castro Valley",2,35432
+"1168","Pueblo",1,34049
+"1169","Oxford",2,18528
+"1170","Houston",2,2691
+"1171","Los Angeles",2,3006
+"1172","Raleigh",1,19842
+"1173","Plainedge",1,25530
+"1174","Deltona",2,4598
+"1175","Twentynine Palms",1,4690
+"1176","Evergreen",1,11168
+"1177","Green Bay",2,66372
+"1178","Greenville",1,8388
+"1179","Orchard Mesa",1,53757
+"1180","Calypso",2,461152
+"1181","Claxton",3,9185
+"1182","Houston",1,6169
+"1183","Long Beach",2,12581
+"1184","Pasadena",1,10856
+"1185","Indianapolis",1,26510
+"1186","Silver Spring",6,121187
+"1187","Wasco",3,148164
+"1188","Renton",1,641
+"1189","Indianapolis",1,3901
+"1190","San Antonio",1,4904
+"1191","Las Vegas",2,18838
+"1192","St. Cloud",2,6658
+"1193","Half Moon Bay",3,42922
+"1194","Webster Groves",1,15322
+"1195","Monterey Park",3,122460
+"1196","Sparks",1,14284
+"1197","Muskogee",1,26941
+"1198","San Jose",3,50952
+"1199","Fort Lauderdale",1,2680
+"1200","Overland Park",1,309
+"1201","Boerne",1,52988
+"1202","Hillrose",2,94756
+"1203","Oakland City",3,28583
+"1204","Denver",2,86068
+"1205","San Diego",1,39899
+"1206","Lakewood",1,22811
+"1207","Little Rock",1,179
+"1208","Portland",1,11493
+"1209","Los Angeles",1,7601
+"1210","League City",2,10477
+"1211","Las Vegas",2,2908
+"1212","Columbia City",1,51040
+"1213","Jeffersonville",1,4502
+"1214","Bristow",1,70166
+"1215","Bristow",3,39301
+"1216","Tampa",1,337
+"1217","Buckeye",1,5511
+"1218","Vancouver",9,334122
+"1219","Bedford",1,2430
+"1220","Houston",3,24430
+"1221","Hogansville",4,69887
+"1222","Fort Valley",1,9351
+"1223","La Plata",1,301
+"1224","Wayne",5,110001
+"1225","Rock Island",2,11513
+"1226","Hiram",1,6562
+"1227","Austin",2,13427
+"1228","Denton",3,8276
+"1229","Lenoir",5,171644
+"1230","Napa",1,320
+"1231","Adel",1,106306
+"1232","North Las Vegas",1,4768
+"1233","Paterson",13,1020886
+"1234","Longmont",2,57704
+"1235","Missouri City",1,27715
+"1236","Mesa",3,66721
+"1237","Florence",2,2781
+"1238","Springfield",1,12809
+"1239","Las Vegas",4,61954
+"1240","Houston",1,7921
+"1241","Tucson",2,202401
+"1242","East Wenatchee",3,28279
+"1243","Henderson",1,1070
+"1244","Rowlett",2,9637
+"1245","Lancaster",2,60944
+"1246","Milwaukee",1,8715
+"1247","Colorado Springs",1,7719
+"1248","San Leandro",3,94054
+"1249","Raytown",1,14034
+"1250","Bakersfield",1,1244
+"1251","Mankato",2,59300
+"1252","Anderson",1,1573
+"1253","Daphne",1,24466
+"1254","Lubbock",3,24481
+"1255","Philipsburg",2,26973
+"1256","Richmond",1,62998
+"1257","Waukesha",7,72458
+"1258","Augusta",1,8685
+"1259","Blair",1,10441
+"1260","Jefferson City",2,6266
+"1261","Riverton",1,3951
+"1262","Old Town",2,8310
+"1263","Bakersfield",1,6383
+"1264","Pompano Beach",1,48263
+"1265","Daly City",1,5123
+"1266","Tome",1,34851
+"1267","Laredo",2,53637
+"1268","Ritzville",7,417059
+"1269","Jacksonville",1,1114
+"1270","Milwaukie",1,2546
+"1271","West Terre Haute",2,15693
+"1272","Birmingham",3,36843
+"1273","Philadelphia",5,133846
+"1274","St. Louis",1,33617
+"1275","Pottstown",5,215193
+"1276","Fort Smith",1,2060
+"1277","Cleveland",1,711
+"1278","Colonial Heights",1,3089
+"1279","Winchester",7,74107
+"1280","Brandon",2,18884
+"1281","Oceanside",3,49030
+"1282","Columbia",2,62822
+"1283","Salisbury",10,424700
+"1284","El Mirage",3,26146
+"1285","La Grande",7,108151
+"1286","Knoxville",3,16431
+"1287","Clinton",1,6406
+"1288","Refugio",1,16277
+"1289","Shreveport",5,17647
+"1290","North Miami Beach",1,7659
+"1291","Florence",1,362
+"1292","Shreveport",2,3763
+"1293","Hialeah",2,51308
+"1294","Melbourne",1,9550
+"1295","Manchester",1,109452
+"1296","Milford",1,87723
+"1297","Ada",1,34165
+"1298","Manchester",1,1497
+"1299","Trenton",2,17120
+"1300","Irving",5,155079
+"1301","Mesa",2,38654
+"1302","Lincoln City",1,12850
+"1303","Swartz",7,64826
+"1304","Aguanga",3,8497
+"1305","Columbus",4,14113
+"1306","Wheatland",1,964
+"1307","Asheville",1,369
+"1308","Hinton",1,2487
+"1309","Baltimore",1,8639
+"1310","Louisville",8,473957
+"1311","Pomona",1,16257
+"1312","Albuquerque",1,603
+"1313","Phoenix",1,5277
+"1314","Caldwell",1,1631
+"1315","Gray",7,192315
+"1316","Newburgh",4,48065
+"1317","Buchanan",1,10111
+"1318","Turner",3,13354
+"1319","Linwood",1,2659
+"1320","Ormond Beach",1,424
+"1321","Pahrump",1,3102
+"1322","London",1,3507
+"1323","El Paso",2,4058
+"1324","Clemmons",2,17358
+"1325","Schenectady",3,35528
+"1326","Shelton",2,1382
+"1327","San Antonio",1,4430
+"1328","Mojave",1,7419
+"1329","Fresno",1,13839
+"1330","Taylorsville",2,16437
+"1331","Villa Ridge",3,145149
+"1332","Mojave",1,18460
+"1333","Pine Ridge",1,11834
+"1334","Carlsbad",2,21712
+"1335","Virginia Beach",2,562
+"1336","Tallahassee",1,25953
+"1337","Winchester",2,31221
+"1338","Cuthbert",3,101170
+"1339","Port Jervis",2,84086
+"1340","Wheeling",1,27061
+"1341","Iota",1,2342
+"1342","Granger",1,8594
+"1343","Abilene",7,81974
+"1344","Atlanta",2,15522
+"1345","Grand Junction",2,69703
+"1346","San Antonio",1,148145
+"1347","Tucson",1,209
+"1348","Myerstown",2,1703
+"1349","Webster City",1,3610
+"1350","Long Beach",1,20839
+"1351","High Point",2,1160
+"1352","Syracuse",1,33897
+"1353","Dillon",1,6380
+"1354","Chase City",1,58225
+"1355","Cocoa",1,48662
+"1356","Springfield",2,35941
+"1357","San Joaquin",2,88673
+"1358","Pueblo",5,24402
+"1359","Garland",1,1338
+"1360","Louisville",4,37114
+"1361","Louisville",2,141500
+"1362","Chandler",1,2568
+"1363","Murfreesboro",4,101444
+"1364","New Kensington",5,170009
+"1365","Kansas City",4,55007
+"1366","Potomac",1,769
+"1367","Elkton",1,23853
+"1368","Anchor Point",1,1033
+"1369","Bell Gardens",1,1013
+"1370","St. Louis",1,1165
+"1371","Elmendorf",1,112650
+"1372","Dinuba",1,22666
+"1373","Humble",3,26811
+"1374","Fort Lauderdale",4,130365
+"1375","Montgomery",2,17872
+"1376","Backus",2,15896
+"1377","Wasilla",1,17656
+"1378","Northridge",1,57695
+"1379","Fairfield",2,28938
+"1380","Edison",1,4351
+"1381","Tucson",1,78
+"1382","Tulsa",2,3497
+"1383","Pittsburgh",1,176030
+"1384","Richmond",7,79161
+"1385","Columbia",1,804
+"1386","Ozark",6,154468
+"1387","St. Cloud",1,31118
+"1388","Miami",1,19555
+"1389","Tacoma",1,18242
+"1390","Manila",2,2725
+"1391","Riverside",1,1732
+"1392","Houston",1,17708
+"1393","Santa Clarita",5,49974
+"1394","Pueblo",4,136133
+"1395","San Antonio",2,37980
+"1396","Henderson",3,22529
+"1397","Milwaukee",1,5313
+"1398","Mocksville",2,7587
+"1399","Las Cruces",4,92490
+"1400","Lakeville",1,5940
+"1401","Moses Lake",1,1180
+"1402","Jacksonville",2,94028
+"1403","Colorado Springs",7,133191
+"1404","Bradenton",5,914341
+"1405","Clarkdale",2,34754
+"1406","Kansas City",4,85925
+"1407","Bradenton",1,10303
+"1408","Greeley",1,2263
+"1409","Tahlequah",1,67482
+"1410","Queens",4,65496
+"1411","Georgetown",3,81125
+"1412","Pocatello",3,17894
+"1413","Tuscumbia",1,4361
+"1414","Dalzell",1,38297
+"1415","Shreveport",2,5215
+"1416","Milwaukee",1,673
+"1417","Floresville",1,16807
+"1418","Arnold",1,12381
+"1419","Deming",1,805
+"1420","Schuylkill Haven",1,9531
+"1421","Arvada",1,1723
+"1422","Columbus",2,12232
+"1423","Long Beach",3,50299
+"1424","Doylestown",2,11467
+"1425","Red Bluff",1,15735
+"1426","Orlando",6,49513
+"1427","Hickory",1,6612
+"1428","Greenville",1,2019
+"1429","Long Beach",1,960
+"1430","Poinciana",1,6496
+"1431","Anchorage",2,14878
+"1432","Commerce City",1,249
+"1433","Rialto",1,14894
+"1434","Silverton",1,41570
+"1435","Lanesboro",2,24334
+"1436","Salt Lake City",2,20767
+"1437","Amarillo",1,58984
+"1438","Sparks",2,33929
+"1439","Dickinson",1,3202
+"1440","Bossier City",3,64842
+"1441","Baltimore",2,31451
+"1442","Arlington",2,30188
+"1443","Virginia Beach",1,7064
+"1444","Albertville",2,3330
+"1445","Forrest City",1,21129
+"1446","Lafayette",3,32575
+"1447","Chicago",1,854
+"1448","Orlando",2,57873
+"1449","Kennewick",4,93239
+"1450","Byron",3,12404
+"1451","Saginaw",1,97828
+"1452","Birmingham",1,4879
+"1453","Cuba",2,171108
+"1454","Kansas City",2,10703
+"1455","Sapulpa",1,215029
+"1456","Port Charlotte",1,9172
+"1457","Reno",1,1331
+"1458","Conway",1,725
+"1459","Home Garden",1,755
+"1460","Topeka",1,758
+"1461","Allen",1,22394
+"1462","Salt Lake City",3,41487
+"1463","Wauwatosa",1,24692
+"1464","Minot",1,1219
+"1465","Yuma",1,134
+"1466","Spring Hill",3,49688
+"1467","Gulfport",3,23738
+"1468","Fort Myers",5,75522
+"1469","Columbus",2,80441
+"1470","Raleigh",2,35228
+"1471","Hockingport",1,4220
+"1472","Kasilof",2,20034
+"1473","Scottsdale",1,7880
+"1474","Tucson",2,7926
+"1475","Graham",1,31569
+"1476","Chandler",1,909
+"1477","Marlow Heights",1,57860
+"1478","Aiken",1,44770
+"1479","Lexington Park",1,26521
+"1480","Columbus",2,67355
+"1481","Aurora",1,7354
+"1482","San Diego",3,72117
+"1483","San Angelo",2,3861
+"1484","St. Petersburg",15,1662691
+"1485","Atlanta",3,50446
+"1486","Bloomingdale",2,18602
+"1487","Savannah",1,17296
+"1488","Paris",1,12522
+"1489","Mesa",4,14189
+"1490","Moore",2,5395
+"1491","Arvada",2,25329
+"1492","Jacksonville",1,33792
+"1493","Owings Mills",3,12748
+"1494","Denton",1,1998
+"1495","Lacey",1,91888
+"1496","Appleton",7,233184
+"1497","Atkins",3,22473
+"1498","Fountain Valley",2,10652
+"1499","Waterbury",1,12036
+"1500","Sedona",1,619
+"1501","Lafayette",1,57027
+"1502","Sebring",16,332318
+"1503","Chesapeake",5,26271
+"1504","Metairie",1,35911
+"1505","Powder Springs",1,5101
+"1506","Wausau",2,31701
+"1507","Yerington",1,460
+"1508","West Jefferson",1,7713
+"1509","Lawrenceville",1,13292
+"1510","Cocoa",2,39814
+"1511","West Haven",2,1321
+"1512","Mulberry",3,9753
+"1513","Missoula",1,23683
+"1514","The Villages",1,33474
+"1515","San Antonio",1,7812
+"1516","Gary",1,6969
+"1517","Carthage",1,24368
+"1518","Culver City",1,53447
+"1519","Miami Beach",3,81777
+"1520","Wheat Ridge",1,1870
+"1521","Bainbridge",1,15164
+"1522","New Castle",1,1027
+"1523","Town and Country",1,4525
+"1524","Philadelphia",1,5967
+"1525","Muscoy",1,4544
+"1526","Semmes",1,13609
+"1527","Powhatan",4,116720
+"1528","Bismarck",1,5647
+"1529","New York",1,27944
+"1530","Dallas",2,16020
+"1531","Baker",1,962
+"1532","Bismarck",4,62027
+"1533","Asheboro",1,620
+"1534","Delta Junction",1,8369
+"1535","Phoenix",1,26723
+"1536","Aurora",1,2340
+"1537","Albuquerque",1,4540
+"1538","Kailua",3,41036
+"1539","Jacksonville",2,64748
+"1540","Oklahoma City",1,245
+"1541","Elkmont",3,21303
+"1542","Lubbock",1,7631
+"1543","Sparks",1,24755
+"1544","Milford",1,1067
+"1545","Chicago",1,9648
+"1546","Spring Valley",2,2094
+"1547","North Las Vegas",1,7338
+"1548","Chicago",2,13080
+"1549","Murrieta",2,21628
+"1550","Holt",3,34205
+"1551","Hillsboro",1,12219
+"1552","Ansonia",1,234
+"1553","Denver",1,3757
+"1554","Central Point",1,32159
+"1555","Grass Valley",5,237054
+"1556","Warsaw",2,72386
+"1557","Federal Way",1,19790
+"1558","Chesterfield",4,109802
+"1559","Omaha",1,1757
+"1560","Cross Lanes",1,4867
+"1561","Globe",1,25582
+"1562","Blue Mountain",1,81004
+"1563","Wichita",1,9449
+"1564","Fulton",2,3329
+"1565","El Centro",1,4763
+"1566","Rapid City",1,27921
+"1567","Juneau",1,20130
+"1568","Houston",1,2893
+"1569","Lancaster",2,39469
+"1570","Bakersfield",3,26649
+"1571","Elizabethton",1,33843
+"1572","Clearlake Oaks",1,24881
+"1573","Newport News",1,9540
+"1574","South Ogden",1,1920
+"1575","Memphis",1,13963
+"1576","Auburndale",2,13349
+"1577","Atlanta",1,30378
+"1578","Ocala",2,26300
+"1579","Oklahoma City",1,5662
+"1580","Springfield",2,7581
+"1581","Deltona",1,8364
+"1582","San Antonio",3,124880
+"1583","Phoenix",1,6517
+"1584","Bryant",1,17479
+"1585","Pittsburgh",2,59277
+"1586","Hattiesburg",1,2585
+"1587","Carrollton",1,94470
+"1588","Evansville",3,94398
+"1589","Ithaca",1,601
+"1590","Huntington",1,1084
+"1591","Winston-Salem",1,3296
+"1592","Lynn",1,1406
+"1593","Tempe",1,844
+"1594","Lakewood",4,34875
+"1595","Umatilla",1,1088
+"1596","Carthage",1,8300
+"1597","Brentwood",1,900
+"1598","Davis",1,10228
+"1599","Lenoir",6,83097
+"1600","Tulsa",1,445
+"1601","El Paso",3,174775
+"1602","Kapolei",1,84579
+"1603","Wilmington",1,28757
+"1604","Great Falls",1,10323
+"1605","Fort Walton Beach",4,194543
+"1606","San Bernardino",1,1856
+"1607","Honolulu",1,3335
+"1608","Minneapolis",2,26949
+"1609","Milwaukee",2,1464
+"1610","Brownsville",1,3082
+"1611","Akron",1,447
+"1612","Jacksonville",2,27391
+"1613","Detroit",1,16018
+"1614","Pasco",1,9210
+"1615","Tucson",1,701
+"1616","Tampa",3,18859
+"1617","Renton",1,283
+"1618","Orange",1,3802
+"1619","Anaheim",1,2724
+"1620","St. Louis",1,151
+"1621","Ozark",1,400
+"1622","New Cordell",1,66929
+"1623","League City",3,75667
+"1624","Jersey City",1,2212
+"1625","Jersey City",2,11661
+"1626","Hesperia",3,29559
+"1627","Semmes",3,23487
+"1628","Beloit",2,17998
+"1629","Andrews",1,33831
+"1630","Fort Madison",2,16982
+"1631","Elkland",1,6900
+"1632","Independence",1,7533
+"1633","Portland",1,246
+"1634","Nokomis",2,84948
+"1635","Fayetteville",1,6048
+"1636","Westminster",1,11504
+"1637","Bentonville",2,28931
+"1638","Miramar",1,3194
+"1639","Miramar",1,36957
+"1640","Miramar",2,5843
+"1641","Miramar",4,32299
+"1642","San Bernardino",1,13247
+"1643","Avon",4,74068
+"1644","Marshall",1,536
+"1645","Kansas City",2,20574
+"1646","Syracuse",1,11077
+"1647","Ada",1,39713
+"1648","El Monte",1,96380
+"1649","Mesa",1,110849
+"1650","Temple",1,10209
+"1651","Daytona Beach",1,37058
+"1652","Plant City",1,897
+"1653","Secaucus",2,25577
+"1654","Morrow",3,168909
+"1655","Concord",1,625
+"1656","Warrior Run",1,5747
+"1657","Fort Pierce",6,24351
+"1658","Eugene",2,22677
+"1659","Aurora",3,13145
+"1660","Lakeland",1,273
+"1661","Modesto",1,51818
+"1662","Lewes",1,3652
+"1663","San Antonio",1,7188
+"1664","Tampa",5,254114
+"1665","Bloomfield",1,4782
+"1666","Mansfield",1,262
+"1667","Parkton",2,118993
+"1668","Greeneville",1,5922
+"1669","Enumclaw",2,6664
+"1670","Hollywood",1,24237
+"1671","Great Falls",1,1142
+"1672","Caledonia",2,28171
+"1673","Chester",1,18616
+"1674","Pueblo",1,16399
+"1675","Elizabethtown",1,11705
+"1676","Henderson",1,22194
+"1677","Los Angeles",1,34792
+"1678","Hampton",1,42214
+"1679","Dahlonega",2,8055
+"1680","Chicago",2,641
+"1681","Los Angeles",1,8243
+"1682","Horn Lake",1,4286
+"1683","Morongo Valley",1,15850
+"1684","Kewaunee",1,2527
+"1685","Preston",1,2103
+"1686","Randolph",1,2140
+"1687","Mesa",1,13671
+"1688","Mesa",1,8398
+"1689","Carrollton",5,91079
+"1690","Cleveland",1,78905
+"1691","Charlotte",1,35
+"1692","Everett",2,8740
+"1693","Beaumont",1,24617
+"1694","Menasha",2,20828
+"1695","Jacksonville",1,28227
+"1696","Los Angeles",1,49356
+"1697","Wilson",3,16759
+"1698","Yukon",1,4392
+"1699","Kapolei",2,32847
+"1700","Lakewood",1,9362
+"1701","Loveland",1,436
+"1702","Lakeland",1,3600
+"1703","Cedar City",1,58098
+"1704","Vallejo",2,31436
+"1705","Athens",1,1977
+"1706","San Jose",1,13671
+"1707","Everett",1,21159
+"1708","Union",5,140545
+"1709","Lincolnton",1,4743
+"1710","Louisville",2,1800
+"1711","Wadsworth",1,731
+"1712","Conyers",2,23918
+"1713","Ashtabula",3,15127
+"1714","San Antonio",3,54917
+"1715","Fayetteville",1,12316
+"1716","Henryetta",1,817
+"1717","Tahlequah",7,93444
+"1718","Cleveland",3,43914
+"1719","Willis",1,99155
+"1720","La Monte",1,1397
+"1721","Sparta",1,1050
+"1722","Glendale",2,42042
+"1723","Las Cruces",1,20143
+"1724","Two Rivers",1,44438
+"1725","Phoenix",1,52381
+"1726","Parkland",1,218400
+"1727","Alma",1,549
+"1728","Union Park",3,42062
+"1729","Boulder",2,72495
+"1730","Odessa",1,14201
+"1731","Vero Beach",3,16601
+"1732","Alamogordo",1,488
+"1733","San Jose",1,7894
+"1734","Pearson",1,18671
+"1735","Bascom",1,133759
+"1736","Lancaster",1,36194
+"1737","Baltimore",2,79484
+"1738","Ona",1,1065
+"1739","Fresno",4,54824
+"1740","Evansville",1,2021
+"1741","Carmichael",4,58113
+"1742","Madison",1,9649
+"1743","Madison",1,4550
+"1744","Porterville",1,5439
+"1745","Tulsa",1,1308
+"1746","Silver City",1,47450
+"1747","Boyne Falls",1,667
+"1748","Athens",1,3232
+"1749","Cumming",3,43246
+"1750","Albuquerque",1,14045
+"1751","Morristown",1,270
+"1752","Grove",1,16973
+"1753","Bossier City",3,12227
+"1754","Brooklyn",1,3956
+"1755","Greenville",1,2186
+"1756","Long Beach",2,19296
+"1757","El Paso",2,89541
+"1758","Spokane",1,1859
+"1759","Albany",1,16476
+"1760","Huntington",1,22899
+"1761","Sweetwater",1,4985
+"1762","New York",2,7079
+"1763","Carson",1,843
+"1764","Henderson",2,126814
+"1765","Denver",1,16713
+"1766","Hillsboro",3,9442
+"1767","Tillmans Corner",3,57706
+"1768","Dayton",1,47661
+"1769","Leesburg",3,10952
+"1770","St. Louis",2,73501
+"1771","Boise",1,659
+"1772","Victorville",7,152703
+"1773","Easley",2,14896
+"1774","Palestine",1,7610
+"1775","Farmingdale",1,1604
+"1776","Idaho Falls",1,5430
+"1777","White Pigeon",2,184484
+"1778","Bronx",1,7669
+"1779","Oakridge",1,18971
+"1780","Warren",1,10312
+"1781","Fayette",2,200289
+"1782","Roanoke",3,74773
+"1783","Brooklyn",1,202
+"1784","Stone Mountain",1,9205
+"1785","Jamestown",2,9227
+"1786","Goleta",1,6470
+"1787","Wendell",1,5478
+"1788","Albuquerque",1,1352
+"1789","High Point",1,10982
+"1790","Athens",2,24221
+"1791","Ethel",2,27665
+"1792","Glendale",1,100416
+"1793","Buckeye",3,13464
+"1794","Corpus Christi",3,30458
+"1795","El Monte",1,21271
+"1796","Fort Worth",1,1666
+"1797","Myrtle Beach",4,38877
+"1798","Tucson",1,12040
+"1799","North Port",7,312666
+"1800","Pine Bluff",1,7216
+"1801","Kiowa",2,121363
+"1802","Lancaster",2,1006
+"1803","Oklahoma City",2,13748
+"1804","Farmington",1,9892
+"1805","Oklahoma City",5,199223
+"1806","Deer Island",4,8564
+"1807","Layton",1,45888
+"1808","Beaumont",1,452
+"1809","Lincoln",1,1594
+"1810","Rutland",5,11135
+"1811","Kountze",1,607
+"1812","Tahlequah",3,39847
+"1813","Whittier",1,1676
+"1814","Herald",1,3763
+"1815","Maryland Heights",2,287677
+"1816","Carrollton",1,6859
+"1817","Jacksonville",1,34616
+"1818","Grovetown",1,9124
+"1819","Palos Hills",2,3813
+"1820","Gainesville",1,1274
+"1821","Mountain View",1,7094
+"1822","Bronx",1,13565
+"1823","Bronx",1,835
+"1824","Miami",1,16429
+"1825","Boston",1,1869
+"1826","Cockeysville",2,3318
+"1827","Yucca Valley",1,10996
+"1828","Monument",3,140545
+"1829","Longview",1,16577
+"1830","Leesville",1,2063
+"1831","Dallas",1,17753
+"1832","La Habra",2,8258
+"1833","Hyattsville",1,1156
+"1834","Hartsville",1,1886
+"1835","Richlands",1,4531
+"1836","Lacombe",1,90923
+"1837","Aurora",1,31367
+"1838","Huntington",1,100693
+"1839","Sanford",1,125
+"1840","Wilmington",1,15976
+"1841","Lowell",1,35677
+"1842","Rome",1,710
+"1843","Riverton",2,324634
+"1844","Ada",1,4058
+"1845","Hampton",1,15938
+"1846","Lakewood",2,1781
+"1847","Gainesville",1,681
+"1848","Long Beach",1,68878
+"1849","Shannon",1,14692
+"1850","Shannon",2,41547
+"1851","Pittsburgh",1,75536
+"1852","Memphis",2,26604
+"1853","Tallahassee",1,558
+"1854","Lexington",1,12584
+"1855","Salem",3,72350
+"1856","Staten Island",1,13496
+"1857","Richmond",1,18310
+"1858","Oceanside",1,5922
+"1859","Milton",6,227289
+"1860","Washington",4,55780
+"1861","Houston",4,107404
+"1862","Jonesboro",1,12375
+"1863","Sanger",1,3185
+"1864","Staunton",1,12176
+"1865","Elizabethton",3,33481
+"1866","Katy",1,9923
+"1867","Oklahoma City",3,6164
+"1868","St. Paul",12,242742
+"1869","Arlington",1,23896
+"1870","Plainview",2,86840
+"1871","Baton Rouge",2,82476
+"1872","Brackettville",1,13459
+"1873","Houston",1,4679
+"1874","Independence",2,46192
+"1875","Santa Clarita",2,20359
+"1876","Nacogdoches",1,3046
+"1877","Columbus",1,1186
+"1878","Burlington",1,25298
+"1879","Wellington",2,48137
+"1880","Phoenix",1,4880
+"1881","Oklahoma City",1,120
+"1882","Aberdeen",1,3745
+"1883","Tacoma",3,101638
+"1884","Longview",1,162
+"1885","Richfield",2,12827
+"1886","Glendora",4,40897
+"1887","Las Vegas",1,14997
+"1888","St. Louis",1,10839
+"1889","Lagrange",1,95310
+"1890","Victorville",1,5838
+"1891","Rigby",3,115382
+"1892","Coeur d'Alene",1,319
+"1893","Bluff City",1,925
+"1894","Kaukauna",1,392
+"1895","Convoy",2,3255
+"1896","Brooklyn",3,51500
+"1897","Missoula",1,8708
+"1898","Silver Springs",5,44703
+"1899","Caldwell",1,6036
+"1900","Sapulpa",1,12700
+"1901","Kerrville",1,1007
+"1902","Denver",1,10372
+"1903","Brooklyn Center",2,32684
+"1904","Clayton",1,3911
+"1905","Florence",1,63015
+"1906","Odessa",1,21184
+"1907","Tolleson",1,2162
+"1908","Jamaica",1,1360
+"1909","Wilmington",1,10632
+"1910","Bakersfield",1,170282
+"1911","Red Bluff",1,6679
+"1912","Carlsbad",1,57939
+"1913","Baltimore",1,58440
+"1914","Gordo",1,4096
+"1915","Salina",1,16945
+"1916","Maywood",3,39690
+"1917","Overland",1,26256
+"1918","Stockton",2,59772
+"1919","Baton Rouge",1,17743
+"1920","Knoxville",1,4319
+"1921","Anchorage",1,3224
+"1922","Dale",2,15407
+"1923","San Diego",1,59890
+"1924","Cottage Grove",3,28563
+"1925","West Valley City",1,65791
+"1926","Danville",1,43291
+"1927","Westminster",1,9817
+"1928","Albuquerque",3,924449
+"1929","Dayton",1,19130
+"1930","Elmira",5,36487
+"1931","Hobbs",2,609314
+"1932","Glennville",1,36223
+"1933","Clinton",1,25007
+"1934","Stanton",2,64367
+"1935","Fort Worth",2,104430
+"1936","North Aurora",1,20850
+"1937","Nicholasville",2,76435
+"1938","Laughlin",2,63141
+"1939","Los Angeles",2,1391
+"1940","Fullerton",3,44299
+"1941","Los Angeles",3,49445
+"1942","Clearwater",4,120456
+"1943","Racine",1,26736
+"1944","Dallas",2,52549
+"1945","Gary",2,7290
+"1946","Yorktown",1,9849
+"1947","Springville",2,84534
+"1948","Spokane Valley",1,1594
+"1949","Ogden",1,22752
+"1950","Denver",1,707
+"1951","Houston",1,30233
+"1952","Griffin",3,48393
+"1953","Honea Path",1,34217
+"1954","Louisville",2,17398
+"1955","Kansas City",4,28454
+"1956","Clinton",1,273
+"1957","Ramseur",1,736
+"1958","Joplin",1,797
+"1959","Talladega",1,34332
+"1960","Riverside",2,12368
+"1961","Chetopa",1,664
+"1962","Fort Worth",1,3784
+"1963","Ripley",1,19320
+"1964","Hephzibah",2,71166
+"1965","Cleveland",1,8497
+"1966","Garland",2,10154
+"1967","Kansas City",1,35811
+"1968","Montpelier",2,20148
+"1969","Irvington",1,10470
+"1970","Moss Point",3,12819
+"1971","Martinsburg",2,19910
+"1972","Leitchfield",1,46550
+"1973","Council Bluffs",1,130641
+"1974","Longview",2,33532
+"1975","Glenshaw",1,44660
+"1976","Grants Pass",1,6620
+"1977","Salt Lake City",2,2588
+"1978","Memphis",1,26725
+"1979","Glen Burnie",1,9630
+"1980","Lowell",2,16386
+"1981","Rifle",1,68823
+"1982","Everett",1,1266
+"1983","Arvin",2,75860
+"1984","Dayton",2,24019
+"1985","Hanceville",1,6257
+"1986","Safety Harbor",5,99037
+"1987","Loganville",1,1946
+"1988","Colorado Springs",1,668
+"1989","Carson City",2,49859
+"1990","Minneapolis",1,11226
+"1991","Indianapolis",1,625
+"1992","Charlotte",1,11784
+"1993","Tampa",1,56551
+"1994","Los Angeles",2,19498
+"1995","Arlington",1,9638
+"1996","Allentown",1,26501
+"1997","Charleston",2,33379
+"1998","McKee",2,33911
+"1999","San Antonio",4,60598
+"2000","Westwood",2,5874
+"2001","Austin",1,91684
+"2002","Chattanooga",1,692
+"2003","Roy",2,90401
+"2004","Portland",1,2312
+"2005","Channelview",1,11715
+"2006","Houston",1,35721
+"2007","Boynton Beach",2,39141
+"2008","Dallas",1,27933
+"2009","Hartford",3,42571
+"2010","Bluffton",1,9495
+"2011","Roaring Spring",2,83750
+"2012","Robinson",1,5621
+"2013","Port Allen",1,97
+"2014","Pittsburgh",1,22292
+"2015","Asbury Park",1,30075
+"2016","Colorado Springs",1,60172
+"2017","Gaffney",1,1815
+"2018","Ranburne",4,66340
+"2019","Wesson",1,171
+"2020","Tacoma",1,3658
+"2021","Albuquerque",1,313
+"2022","Pemberton",1,53126
+"2023","League City",1,24601
+"2024","Fort Worth",1,5704
+"2025","Pueblo",1,864
+"2026","Leslie",3,2729
+"2027","Birmingham",4,69283
+"2028","West Palm Beach",4,73562
+"2029","Modesto",2,38819
+"2030","Modesto",1,25220
+"2031","McAlester",1,18646
+"2032","Metairie",1,12933
+"2033","Angleton",1,2505
+"2034","Angleton",1,625
+"2035","Memphis",1,5220
+"2036","Chino Hills",1,34077
+"2037","Baltimore",1,6878
+"2038","Salt Lake City",1,6429
+"2039","Smithville",1,15322
+"2040","Smithville",2,14111
+"2041","Porterdale",1,62310
+"2042","Hollywood",1,40
+"2043","Oak Ridge",1,4514
+"2044","Dallas",1,17179
+"2045","Kirkland",1,14649
+"2046","Tacoma",1,24274
+"2047","Wildwood",1,3545
+"2048","Jacksonville",1,1901
+"2049","Adelanto",1,79112
+"2050","Union",1,7713
+"2051","Cleveland",3,11171
+"2052","Rancho Mirage",1,55188
+"2053","Citrus Heights",1,1973
+"2054","Bakersfield",1,3362
+"2055","Greenville",1,50309
+"2056","Chicago",1,1835
+"2057","Bronx",1,71518
+"2058","Jacksonville",1,23544
+"2059","Timberville",2,27189
+"2060","Tularosa",2,2613
+"2061","Rosedale",2,23580
+"2062","Wilson",1,888
+"2063","Ruskin",2,106455
+"2064","Anaheim",1,10730
+"2065","West Jordan",1,12335
+"2066","Pensacola",3,42531
+"2067","Oak View",1,24832
+"2068","Mountain Grove",1,33161
+"2069","Roswell",5,36820
+"2070","Lakewood",2,40290
+"2071","Chino",1,1325
+"2072","Salem",1,13880
+"2073","El Paso",2,22088
+"2074","Poulsbo",2,100432
+"2075","West Des Moines",1,48183
+"2076","Eagan",2,8655
+"2077","Albuquerque",1,77352
+"2078","Gaylord",1,2283
+"2079","Elyria",2,11451
+"2080","Denver",4,114761
+"2081","Port St. Lucie",1,49840
+"2082","Wagoner",1,50616
+"2083","Pontotoc",1,30324
+"2084","Athens",1,56
+"2085","Clayton",1,6341
+"2086","Lantana",1,1100
+"2087","Houston",1,4266
+"2088","Linwood",1,3132
+"2089","Bacliff",1,48518
+"2090","Pearl",1,53083
+"2091","Stroudsburg",1,4290
+"2092","Pueblo",1,1870
+"2093","East Los Angeles",1,30068
+"2094","Yucca Valley",1,440
+"2095","Bellevue",2,5275
+"2096","Tulsa",1,5512
+"2097","Springfield",1,1595
+"2098","Elloree",1,977
+"2099","Hazel Green",1,22977
+"2100","Timberville",2,59216
+"2101","Sugarcreek",2,20816
+"2102","San Antonio",2,176428
+"2103","Menasha",1,8044
+"2104","Boston",1,32032
+"2105","Englewood",1,287401
+"2106","Seminole",1,1202
+"2107","Springfield",1,955
+"2108","Phoenix",1,11986
+"2109","Ashville",1,8456
+"2110","Mission",1,12314
+"2111","Centralia",1,4177
+"2112","Dallas",1,593
+"2113","Brownsville",1,16516
+"2114","Las Cruces",2,102708
+"2115","Tucson",1,33486
+"2116","South Bend",1,247
+"2117","Hueytown",1,862
+"2118","Renton",2,101616
+"2119","Pearland",2,25129
+"2120","Tulsa",1,7333
+"2121","Toppenish",1,48992
+"2122","Belmont",1,13
+"2123","Fairbanks",1,448
+"2124","Chula Vista",1,12301
+"2125","Florissant",1,15061
+"2126","Rockville",1,20357
+"2127","Jacksonville",1,826
+"2128","Dallas",1,18100
+"2129","Memphis",2,13233
+"2130","San Leandro",4,46268
+"2131","Orlando",1,32421
+"2132","Riverside",2,26858
+"2133","San Diego",1,49323
+"2134","Como",1,21421
+"2135","Arpin",1,17208
+"2136","Poteau",4,12417
+"2137","Oklahoma City",1,14617
+"2138","Kingsport",1,382720
+"2139","Lawton",2,20347
+"2140","DeSoto",1,6089
+"2141","Portland",2,6539
+"2142","Menifee",1,294
+"2143","Fort Worth",1,3453
+"2144","Shirley",1,58081
+"2145","Clearwater",1,18041
+"2146","Albuquerque",1,1869
+"2147","Fresno",2,7627
+"2148","Bristol",1,771
+"2149","Hawthorne",2,25377
+"2150","San Gabriel",1,34839
+"2151","Los Angeles",1,2034
+"2152","Willowbrook",1,1861
+"2153","St. Louis",1,927
+"2154","Braxton",1,357
+"2155","Modesto",1,8351
+"2156","Trinity",1,755
+"2157","Escalon",1,8577
+"2158","Bernalillo",1,402
+"2159","Jonesboro",3,97730
+"2160","Indialantic",1,23573
+"2161","San Diego",2,1389
+"2162","Collierville",2,35521
+"2163","Detroit",1,5528
+"2164","Ardsley",1,1256
+"2165","Walnut Creek",1,4241
+"2166","Fort Worth",1,4776
+"2167","Anderson",1,10
+"2168","Bartlesville",3,16467
+"2169","Shreveport",1,1072
+"2170","Auburn",1,849
+"2171","Gorham",1,1075
+"2172","Winston",1,6131
+"2173","Virginia Beach",1,13759
+"2174","Huntsville",3,68165
+"2175","Wilmington",1,4219
+"2176","Amarillo",1,1420
+"2177","Chicago",1,32389
+"2178","Joliet",3,45466
+"2179","Wichita",1,34207
+"2180","Kansas City",1,94
+"2181","Odessa",1,38391
+"2182","Houston",1,14485
+"2183","Fort Lauderdale",3,27528
+"2184","Vero Beach",1,12198
+"2185","Montgomery",2,29904
+"2186","Wichita",2,107317
+"2187","Chicago",3,11709
+"2188","Fort Wayne",2,2361
+"2189","Inman",1,41581
+"2190","Ashland",1,18609
+"2191","Lynwood",1,27837
+"2192","Golden Hills",1,1257
+"2193","Auburn",1,16540
+"2194","Vicco",1,1779
+"2195","Auburn",1,3865
+"2196","Miami Gardens",1,5478
+"2197","Archdale",1,37339
+"2198","Carlsbad",1,113
+"2199","Blackwell",2,15594
+"2200","Phoenix",1,631
+"2201","Huron",2,6315
+"2202","Oxford",1,1198
+"2203","Trinidad",1,8645
+"2204","Garden Grove",1,57464
+"2205","Tonalea",1,509
+"2206","Pasadena",1,65578
+"2207","Davie",2,22230
+"2208","New Boston",1,96692
+"2209","New Orleans",6,40913
+"2210","Palm Beach Gardens",1,2144
+"2211","Jeffersontown",1,5647
+"2212","Tamarac",1,7767
+"2213","Appleton",1,5830
+"2214","Las Vegas",2,1670
+"2215","Baytown",1,23224
+"2216","Gardena",1,2811
+"2217","Rising Sun",2,13061
+"2218","Chicago",1,205
+"2219","Savannah",1,55676
+"2220","Columbus",2,51898
+"2221","South Sioux City",1,6747
+"2222","Tulsa",1,42918
+"2223","Monroe",1,8098
+"2224","Montebello",1,28517
+"2225","Phoenix",1,823
+"2226","Wytheville",1,10698
+"2227","Seattle",1,14430
+"2228","Milwaukee",1,15961
+"2229","Santa Barbara",1,1985
+"2230","Lumberton",1,99357
+"2231","Mesa",1,2255
+"2232","Rapid City",1,26889
+"2233","Angel Fire",2,9443
+"2234","San Jose",1,899
+"2235","Stockton",2,55829
+"2236","Spokane Valley",1,24523
+"2237","Hermantown",1,129638
+"2238","Gadsden",1,21210
+"2239","Cedar Hill",2,58109
+"2240","Glenwood",3,73453
+"2241","Miami",1,483
+"2242","Los Lunas",1,36482
+"2243","Los Angeles",1,95135
+"2244","Welcome",2,22553
+"2245","Phoenix",1,1476
+"2246","Portland",1,558
+"2247","Edmond",2,13351
+"2248","Bay St. Louis",1,906
+"2249","Hemphill",1,1005
+"2250","Austin",3,10119
+"2251","Sparks",2,57197
+"2252","Pueblo",1,18490
+"2253","Denver",1,26001
+"2254","Clarksville",1,3742
+"2255","Green Bay",1,4338
+"2256","Apex",1,33876
+"2257","Stratford",2,2937
+"2258","Colorado Springs",1,12661
+"2259","Owingsville",1,16938
+"2260","Tifton",1,5490
+"2261","Los Angeles",1,67644
+"2262","Watauga",1,16338
+"2263","Shelby",1,2117
+"2264","Raleigh",1,44379
+"2265","Colorado Springs",1,823
+"2266","Little Rock",1,7867
+"2267","Athens",1,1236
+"2268","Fremont",2,364
+"2269","New York",1,8276
+"2270","Coon Rapids",2,1207
+"2271","Morgantown",2,6221
+"2272","Lewiston",1,2169
+"2273","Montesano",1,65671
+"2274","Fountain Inn",2,3260
+"2275","Rome",1,213
+"2276","Pigeon Forge",1,783
+"2277","Bronx",1,1285
+"2278","Los Angeles",2,27439
+"2279","Kalama",2,8794
+"2280","Red Bluff",1,7087
+"2281","Dalhart",1,1317
+"2282","Rushville",1,2640
+"2283","St. Louis",1,9611
+"2284","Buckeye",1,28665
+"2285","Ocoee",3,72689
+"2286","Clinton",1,10899
+"2287","Phoenix",2,38655
+"2288","St. Louis",1,3851
+"2289","Richmond",1,1489
+"2290","Boerne",1,15518
+"2291","Canutillo",1,935
+"2292","DeLand",2,48706
+"2293","Pinellas Park",1,24024
+"2294","Indio",1,8521
+"2295","Mexico Beach",2,54058
+"2296","Shreveport",1,92108
+"2297","Louisville",2,3153
+"2298","Pueblo",1,2820
+"2299","New Lisbon",1,65364
+"2300","Salt Lake City",1,4967
+"2301","Chattanooga",2,4504
+"2302","Greeneville",1,267
+"2303","Blytheville",2,1100
+"2304","New Albany",1,4543
+"2305","Bloomington",1,5434
+"2306","Glendale Heights",1,14196
+"2307","Anaheim",1,7778
+"2308","Kalamazoo",1,200915
+"2309","San Ysidro",1,57577
+"2310","Boynton Beach",1,2683
+"2311","Pelion",1,22781
+"2312","Brownstown",1,308
+"2313","Redding",1,200370
+"2314","Union City",1,10524
+"2315","La Follette",1,24201
+"2316","Springfield",1,377
+"2317","Anchorage",1,1028
+"2318","Atlanta",1,733
+"2319","Springfield",1,16861
+"2320","Marana",3,235087
+"2321","Fairbanks",1,20427
+"2322","North Miami",1,1252
+"2323","Durham",1,15887
+"2324","Boone",1,14009
+"2325","Glendale",1,12005
+"2326","Seguin",3,16477
+"2327","Inglewood",2,43665
+"2328","Chickasha",1,3388
+"2329","Manchester",1,7036
+"2330","Rochester",1,894
+"2331","Burnet",1,30908
+"2332","Morton",1,3958
+"2333","Gretna",1,25553
+"2334","Gretna",2,156787
+"2335","Baltimore",1,41589
+"2336","Charlotte",2,57407
+"2337","St. Louis",1,1850
+"2338","Thurmont",1,7035
+"2339","Nichols",1,95968
+"2340","Port St. Joe",1,8816
+"2341","New Bern",1,136037
+"2342","Walterboro",2,39614
+"2343","Sandy Springs",1,48125
+"2344","Modesto",1,55554
+"2345","San Antonio",1,23270
+"2346","Las Vegas",2,42174
+"2347","State College",1,7661
+"2348","Tampa",1,28178
+"2349","University City",2,14575
+"2350","Kittitas",2,54287
+"2351","Bastrop",3,51731
+"2352","Mansfield",1,19743
+"2353","Palmdale",1,3653
+"2354","Clermont",1,2369
+"2355","Glen Carbon",1,12097
+"2356","Las Vegas",1,1009
+"2357","Dublin",1,258277
+"2358","Dublin",1,27007
+"2359","Jacksonville",1,16183
+"2360","Federal Way",1,15972
+"2361","Trenton",2,399
+"2362","Sallisaw",1,9408
+"2363","Ontario",1,3457
+"2364","Hamilton",1,3532
+"2365","San Leandro",1,23851
+"2366","Phoenix",1,2545
+"2367","Greensburg",1,11690
+"2368","Grand Island",1,1395
+"2369","Miami",1,834
+"2370","Waleska",1,70465
+"2371","Kalamazoo",1,111126
+"2372","Westminster",1,297
+"2373","Lakewood",1,663
+"2374","San Bernardino",1,3190
+"2375","Burlington",2,15679
+"2376","Redding",1,1440
+"2377","Cofield",1,1777
+"2378","Phoenix",2,40640
+"2379","Buckeye",3,7615
+"2380","Battle Creek",1,14460
+"2381","Quanah",1,20029
+"2382","Monahans",1,8383
+"2383","Athens",2,45629
+"2384","Jonesboro",1,784
+"2385","Anchorage",1,3997
+"2386","Morgantown",1,10141
+"2387","Decatur",1,1446
+"2388","Springfield",1,696
+"2389","Bakersfield",2,24698
+"2390","Muskogee",2,5816
+"2391","Greenville",1,25977
+"2392","San Antonio",1,8595
+"2393","San Antonio",1,31336
+"2394","Rancho Mirage",1,13584
+"2395","Aurora",1,6373
+"2396","Des Moines",1,6121
+"2397","Mount Holly",1,635
+"2398","Fairchild",1,202
+"2399","Grayson",1,909
+"2400","Sebewaing",1,79768
+"2401","Honolulu",1,3679
+"2402","Waco",1,45202
+"2403","Salinas",1,12198
+"2404","Fairfield",2,12674
+"2405","Vancouver",1,2788
+"2406","Littleton",1,38924
+"2407","Killeen",1,5445
+"2408","Struthers",1,8752
+"2409","DeRidder",1,6390
+"2410","Townsend",1,1564
+"2411","Miltona",1,10816
+"2412","Denver",1,94580
+"2413","Springfield",1,5182
+"2414","Flint",1,3165
+"2415","Carrollton",1,2465
+"2416","Victorville",1,133
+"2417","Clarksville",1,8338
+"2418","Blountville",1,14159
+"2419","Greeley",1,346
+"2420","Boston",1,5958
+"2421","Poteet",1,2092
+"2422","Little Rock",1,604
+"2423","Walton",1,2215
+"2424","Willimantic",1,5866
+"2425","Randallstown",2,23845
+"2426","Vancouver",1,79351
+"2427","Horn Lake",2,44188
+"2428","Honolulu",1,11778
+"2429","Pelahatchie",1,48469
+"2430","Lithia Springs",1,14937
+"2431","Napa",2,7320
+"2432","Tazewell",1,3620
+"2433","New Orleans",1,37988
+"2434","Chicago",1,13366
+"2435","Clinton",1,1262
+"2436","Aurora",1,4012
+"2437","Los Angeles",1,6725
+"2438","San Jose",1,495
+"2439","Jackson",1,30053
+"2440","Corpus Christi",1,25752
+"2441","Hubbard",4,24408
+"2442","Apex",1,47896
+"2443","Richmond Hill",1,2399
+"2444","Cinco Ranch",1,27826
+"2445","Cinco Ranch",1,41058
+"2446","Merced",1,13968
+"2447","Defiance",1,16899
+"2448","Fairbanks",1,24598
+"2449","Fullerton",1,68078
+"2450","Crestwood",1,7674
+"2451","Montgomery",1,5225
+"2452","Redding",1,9616
+"2453","Waukesha",1,21148
+"2454","Greenville",2,14575
+"2455","Del City",1,184755
+"2456","Virginia Beach",1,21734
+"2457","Vallejo",1,19905
+"2458","Bailey",1,1146
+"2459","New York",2,37362
+"2460","Bakersfield",1,9508
+"2461","Barberton",1,7724
+"2462","Seattle",1,1745
+"2463","Banning",1,3495
+"2464","Memphis",1,65807
+"2465","Edinburg",1,1121
+"2466","Madera",1,14928
+"2467","Snyder",1,25574
+"2468","McHenry",1,6008
+"2469","Murfreesboro",3,16207
+"2470","Joliet",1,1717
+"2471","La Salle",1,387647
+"2472","Shreveport",1,1369
+"2473","Phoenix",1,22031
+"2474","Farmville",1,1485
+"2475","Orange Park",1,55209
+"2476","Waukegan",1,1497
+"2477","Flagstaff",1,443
+"2478","Buford",1,5063
+"2479","Stockton",1,1534
+"2480","Denver",1,18943
+"2481","Passaic",1,1699
+"2482","Phoenix",1,732
+"2483","Midland",1,413
+"2484","Austin",1,124972
+"2485","Honolulu",1,2710
+"2486","Newark",1,85768
+"2487","Houston",1,9354
+"2488","Houston",1,9641
+"2489","Wichita",2,9553
+"2490","Binghamton",1,3034
+"2491","Richvale",2,9330
+"2492","Jackson",1,16234
+"2493","Red Bluff",1,28016
+"2494","Rosebud",1,1401
+"2495","Garland",1,5507
+"2496","Century",1,1821
+"2497","Florence",1,1431
+"2498","Dyersburg",1,44121
+"2499","Las Vegas",1,3692
+"2500","St. Louis",1,1217
+"2501","Ehrenberg",1,3053
+"2502","Valparaiso",1,11962
+"2503","Spokane",1,35101
+"2504","Flagstaff",1,3002
+"2505","Flagstaff",1,9160
+"2506","Atlanta",1,1755
+"2507","North Las Vegas",1,12086
+"2508","Prosser",1,2730
+"2509","Richland",1,4823
+"2510","Billings",1,66107
+"2511","St. Louis Park",1,15871
+"2512","Woodburn",1,2147
+"2513","Knoxville",1,20907
+"2514","O'Fallon",1,2649
+"2515","Charlotte",2,71868
+"2516","West Memphis",1,13755
+"2517","West Memphis",1,764
+"2518","Silver Spring",1,2512
+"2519","Sperry",1,11490
+"2520","Evans",1,57746
+"2521","Fort Lupton",1,52127
+"2522","Atlanta",2,3995
+"2523","Tempe",1,8829
+"2524","St. Louis",1,48587
+"2525","Aurora",1,11874
+"2526","Roseville",1,4405
+"2527","Swedesboro",1,2831
+"2528","El Paso",1,2689
+"2529","Vacaville",1,27228
+"2530","Odessa",1,504
+"2531","Gainesville",1,23602
+"2532","Pueblo",2,42956
+"2533","Marysville",1,408
+"2534","Cathedral City",1,9952
+"2535","Cathedral City",1,1556
+"2536","Lakewood",1,27939
+"2537","Jackson",1,9325
+"2538","White Lake",2,3384
+"2539","Calabasas",1,826
+"2540","Colorado Springs",1,1153
+"2541","Sunman",1,2949
+"2542","Phoenix",1,678
+"2543","Arlington",1,1513
+"2544","Eugene",1,113003
+"2545","Lake Charles",1,27130
+"2546","Eclectic",1,26666
+"2547","Wichita",1,24104
+"2548","Riverton",1,71422
+"2549","Midland",1,37229
+"2550","Leadwood",1,4021
+"2551","Kent",1,4116
+"2552","Decatur",1,4031
+"2553","Utica",1,23923
+"2554","Tucson",1,109212
+"2555","Spokane",1,449
+"2556","Tulsa",1,17298
+"2557","Houston",2,105101
+"2558","Portland",1,76598
+"2559","Hurricane",1,28035
+"2560","Lemon Grove",1,1152
+"2561","Santa Clara",1,36537
+"2562","Oak Grove",1,14212
+"2563","Fresno",1,7414
+"2564","Houston",1,14366
+"2565","San Marcos",1,1127
+"2566","Amarillo",1,34698
+"2567","New Orleans",1,322267
+"2568","San Antonio",1,2896
+"2569","Millbrook",1,81511
+"2570","Visalia",1,11996
+"2571","Albert Lea",2,29515
+"2572","Bozeman",1,40885
+"2573","San Antonio",1,3612
+"2574","Memphis",2,29663
+"2575","Niles",3,53955
+"2576","Shallotte",2,24522
+"2577","Alleghany",1,21297
+"2578","Seattle",1,3210
+"2579","Longmont",1,2158
+"2580","Waterville",1,4011
+"2581","Dayton",1,8
+"2582","Rockford",1,8047
+"2583","Llano",1,11547
+"2584","Danbury",2,1688
+"2585","St. Joseph",1,1569
+"2586","Beatty",2,144
+"2587","Phoenix",1,5226
+"2588","Port Arthur",1,2037
+"2589","Orcutt",2,1817
+"2590","Tullahoma",1,2036
+"2591","Crawfordsville",1,18303
+"2592","Cohasset",1,68028
+"2593","Clearwater",1,5738
+"2594","Lakeland",1,12756
+"2595","Rector",1,8510
+"2596","Buckeye",1,1210
+"2597","San Jose",1,2472
+"2598","Albuquerque",1,90209
+"2599","Albuquerque",1,27721
+"2600","Wailuku",1,16837
+"2601","Azusa",2,72665
+"2602","Lexington",1,19839
+"2603","Toledo",1,6534
+"2604","Panama City",1,28266
+"2605","Plant City",1,22708
+"2606","Valrico",1,11338
+"2607","Valrico",1,11517
+"2608","Fort Worth",1,2943
+"2609","Union City",2,1175
+"2610","Hopewell",1,15896
+"2611","Lehighton",1,20525
+"2612","Palmyra",1,511
+"2613","Terre Haute",1,14252
+"2614","Phoenix",1,81328
+"2615","Sacramento",1,45605
+"2616","Aurora",1,13917
+"2617","Mesa",1,47741
+"2618","Oklahoma City",2,11237
+"2619","Kansas City",1,5463
+"2620","Darlington",1,1486
+"2621","Apple Creek",1,393
+"2622","Shirley",1,7240
+"2623","Hanford",1,3739
+"2624","Newark",2,9216
+"2625","Yakima",1,4963
+"2626","Memphis",1,120899
+"2627","Decatur",1,4293
+"2628","Wildwood",1,9214
+"2629","Jacksonville",1,23642
+"2630","Jacksonville",1,25200
+"2631","St. Louis",1,1282
+"2632","Albuquerque",1,108
+"2633","Buffalo",1,10403
+"2634","Jonesboro",1,49006
+"2635","Calhoun",1,118488
+"2636","Atkins",1,28158
+"2637","Redwood City",1,33871
+"2638","Fredonia",1,10001
+"2639","Rangely",1,3593
+"2640","Palatine",1,129216
+"2641","Torrance",1,29799
+"2642","Staten Island",1,15250
+"2643","Tulare",2,38751
+"2644","Springdale",1,132438
+"2645","Perry",1,6348
+"2646","Savannah",1,9792
+"2647","Columbus",1,41283
+"2648","San Benito",1,44143
+"2649","Fort Pierce",1,16313
+"2650","Pacheco",1,4114
+"2651","Pahrump",1,1898
+"2652","Philadelphia",2,85052
+"2653","Richmond",1,4956
+"2654","St. Louis",1,20902
+"2655","Martinez",2,8118
+"2656","Arvin",1,2236
+"2657","Napa",1,502
+"2658","Ogden",2,394760
+"2659","Center",1,15742
+"2660","Las Vegas",1,1472
+"2661","Tamarac",1,474
+"2662","Pensacola",1,426
+"2663","Ogden",1,10836
+"2664","New Underwood",1,13099
+"2665","Phoenix",1,14772
+"2666","Old Town",1,20890
+"2667","Houston",1,2181
+"2668","Louisville",2,34001
+"2669","Vancouver",3,19625
+"2670","Lakewood",1,18120
+"2671","Bemidji",1,899
+"2672","Centennial",2,2125
+"2673","Virginia",1,7727
+"2674","Topeka",1,100
+"2675","Pahoa",1,6355
+"2676","Knoxville",1,1144
+"2677","New Albany",1,26095
+"2678","Clinton",1,6568
+"2679","Salt Lake City",1,15292
+"2680","Detroit",1,4668
+"2681","Central City",1,6250
+"2682","Chicago",2,55281
+"2683","Birmingham",1,5059
+"2684","Crested Butte",1,11403
+"2685","Palmer",1,1919
+"2686","Columbus",1,22099
+"2687","Bell Gardens",1,6401
+"2688","Stillwater",1,2202
+"2689","Talladega",1,33039
+"2690","Talladega",1,36475
+"2691","Harrison",1,22284
+"2692","Phoenix",1,13504
+"2693","Magnolia",1,5984
+"2694","Indianapolis",3,99805
+"2695","Meridian",1,1615
+"2696","Missoula",1,2699
+"2697","Fort Pierce",1,17281
+"2698","Hayward",1,1391
+"2699","Greenwood Village",1,38546
+"2700","Augusta",1,8199
+"2701","Oroville",1,40494
+"2702","Demopolis",1,514
+"2703","Haynesville",1,14317
+"2704","Spartanburg",1,34341
+"2705","Auburn",1,13563
+"2706","Fort Chiswell",1,1754
+"2707","Glendale",1,75312
+"2708","Pratt",1,11845
+"2709","Oklahoma City",2,1014
+"2710","Alpine",1,48398
+"2711","Mantoloking",1,9570
+"2712","Fresno",1,8335
+"2713","Chattanooga",1,25569
+"2714","Muskogee",1,18265
+"2715","Robbins",1,21441
+"2716","Wagoner",1,4367
+"2717","Clarksdale",1,18159
+"2718","St. Paul",2,64893
+"2719","Salt Lake City",2,27717
+"2720","Shakopee",1,2315
+"2721","Ogden",1,6378
+"2722","Glen Burnie",1,5610
+"2723","Spartanburg",1,1094
+"2724","Port Charlotte",1,66959
+"2725","Newport",1,45743
+"2726","Golden",1,990
+"2727","St. Clair Shores",1,6667
+"2728","Albuquerque",1,1471
+"2729","Laramie",1,16485
+"2730","Danville",1,10752
+"2731","Bandon",1,18068
+"2732","Idaho Falls",1,1860
+"2733","Charleston",1,734
+"2734","Jacksonville",1,6287
+"2735","North Las Vegas",1,8087
+"2736","Houston",1,9436
+"2737","Port Orange",1,14898
+"2738","Los Angeles",1,18484
+"2739","Phoenix",1,27091
+"2740","Parkville",1,9931
+"2741","South Lake Tahoe",1,9465
+"2742","Barnesville",1,74760
+"2743","Las Vegas",1,2409
+"2744","Kingwood",1,1873
+"2745","St. Louis",1,30153
+"2746","Detroit",1,27380
+"2747","Sioux Falls",2,865
+"2748","Martha Lake",1,8614
+"2749","Davenport",1,51390
+"2750","Tulsa",1,31401
+"2751","Riverton",1,36534
+"2752","Pittsburg",1,4657
+"2753","Snellville",1,8709
+"2754","Newport",1,67910
+"2755","Washington",1,1454
+"2756","Spanaway",1,7967
+"2757","Paris",1,1235
+"2758","McBee",1,42102
+"2759","Miami Gardens",1,54064
+"2760","Brockton",1,10764
+"2761","Green Bay",1,42807
+"2762","Salt Lake City",1,211
+"2763","Cartersville",1,2313
+"2764","Wheat Ridge",1,826
+"2765","Monroe",1,529
+"2766","Vineland",1,38154
+"2767","Elkhorn",1,180279
+"2768","San Antonio",1,3459
+"2769","Kearns",2,23671
+"2770","Memphis",1,5865
+"2771","Longview",1,2240
+"2772","Tacoma",1,28986
+"2773","Columbus",1,16888
+"2774","Porterville",1,14018
+"2775","Gainesville",1,28913
+"2776","Jeffersonville",1,1133
+"2777","Alamogordo",1,66385
+"2778","Fort Smith",2,50317
+"2779","Atlanta",1,4215
+"2780","Orem",1,46051
+"2781","Mountain View",1,1994
+"2782","Chinle",1,39223
+"2783","West Jordan",1,21926
+"2784","Enterprise",1,2454
+"2785","Farmersville",1,19155
+"2786","Milwaukee",1,311
+"2787","Rochester",1,2781
+"2788","Portland",1,126589
+"2789","Thousand Oaks",1,5058
+"2790","Sullivan",1,510
+"2791","Oak Ridge",1,423
+"2792","Wellington",1,67
+"2793","Clovis",1,869
+"2794","Okarche",1,22786
+"2795","Auburn",1,4849
+"2796","Honolulu",1,5104
+"2797","Lawtey",1,2329
+"2798","Nashville",1,236
+"2799","Chiloquin",1,3852
+"2800","Scarbro",1,8610
+"2801","Memphis",1,421291
+"2802","Millbrae",1,2100
+"2803","Greenville",1,32584
+"2804","Mableton",1,2799
+"2805","Victorville",1,10228
+"2806","Houston",1,22290
+"2807","Orlando",1,7830
+"2808","Hastings",2,173591
+"2809","Portland",1,85
+"2810","Greenback",1,941
+"2811","Epping",1,25117
+"2812","Nampa",1,25694
+"2813","Okmulgee",1,5545
+"2814","Houston",1,34431
+"2815","Kennewick",1,3005
+"2816","Honolulu",1,53921
+"2817","Las Cruces",1,37996
+"2818","Enid",1,46228
+"2819","Palatka",2,5409
+"2820","Hammond",1,210
+"2821","Newark",1,13478
+"2822","Newark",1,692
+"2823","Orlando",1,1581
+"2824","Los Angeles",1,59395
+"2825","Peoria",1,45
+"2826","Williamsburg",1,456
+"2827","Baltimore",1,8359
+"2828","Harrison",1,4772
+"2829","Reno",1,30477
+"2830","Oak Harbor",1,3028
+"2831","Henderson",1,14003
+"2832","Miami",1,10386
+"2833","Longmont",1,9918
+"2834","Honolulu",1,49215
+"2835","Los Angeles",1,458
+"2836","Los Angeles",1,5538
+"2837","Masontown",1,385
+"2838","League City",1,2548
+"2839","Middleton",1,52936
+"2840","Eagle Point",1,17825
+"2841","Garden Grove",1,14229
+"2842","Virginia Beach",1,9248
+"2843","Marysville",1,1041
+"2844","Flushing",1,1458
+"2845","Temple Hills",2,32007
+"2846","Hopkinsville",2,4391
+"2847","Lancaster",1,36407
+"2848","Garden Plain",1,23569
+"2849","Walla Walla",1,1139
+"2850","Manitowoc",1,403
+"2851","Shreveport",1,5336
+"2852","Vernon Hills",1,2741
+"2853","Ankeny",1,19893
+"2854","Jacksonville",1,2573
+"2855","Laredo",1,81557
+"2856","Laredo",1,16592
+"2857","Greensboro",1,20149
+"2858","Mesa",1,36532
+"2859","Fort Worth",1,4925
+"2860","Detroit",1,17362
+"2861","Laredo",1,22410
+"2862","Laredo",1,10560
+"2863","Dover",1,5292
+"2864","Las Cruces",1,67213
+"2865","Henderson",1,20907
+"2866","Laredo",1,121323
+"2867","Buffalo",1,19074
+"2868","Cumming",1,43649
+"2869","Gary",1,42
+"2870","Georgetown",1,733
+"2871","Tucson",1,113819
+"2872","Missouri City",1,6086
+"2873","Stanwood",1,469
+"2874","Greenville",1,11347
+"2875","Houston",1,4626
+"2876","Pawtucket",1,1497
+"2877","Citronelle",1,1237
+"2878","Greenville",1,30365
+"2879","Dallas",1,22779
+"2880","Cincinnati",1,5296
+"2881","Sacramento",1,20475
+"2882","Galveston",1,15588
+"2883","Moultrie",1,2706
+"2884","Morris",1,4869
+"2885","Hollywood",1,6358
+"2886","Westminster",1,19501
+"2887","Covington",1,2614
+"2888","Bernalillo",1,18352
+"2889","Cheney",1,2253
+"2890","Jackson",1,3811
+"2891","Arlington",1,32390
+"2892","Sedalia",1,15779
+"2893","Fairview",1,124694
+"2894","Floral City",1,6498
+"2895","South Pasadena",1,411
+"2896","Beverly Hills",1,9408
+"2897","Houston",1,6645
+"2898","Redlands",1,2358
+"2899","Tarboro",1,33235
+"2900","Phoenix",1,5819
+"2901","Phoenix",1,740
+"2902","Redding",1,9379
+"2903","Richmond",1,1240
+"2904","Port Allegany",1,12581
+"2905","Miami",1,3129
+"2906","Blacksburg",1,1585
+"2907","Las Vegas",1,22225
+"2908","Charlotte",1,1089
+"2909","Westminster",1,1673
+"2910","York",1,5391
+"2911","Christiansburg",1,630
+"2912","Alamosa",1,2212
+"2913","Cincinnati",1,5771
+"2914","Festus",2,11510
+"2915","Bakersfield",1,25233
+"2916","Enoree",1,1857
